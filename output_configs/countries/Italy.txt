@@ -1,2 +1,0 @@
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?encryption=none&security=none&type=grpc#%E6%84%8F%E5%A4%A7%E5%88%A9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?encryption=none&security=none&type=grpc#%E6%84%8F%E5%A4%A7%E5%88%A9

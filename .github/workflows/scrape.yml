@@ -69,12 +69,10 @@ jobs:
 
       - name: ⬆️ Commit and Push Changes
         run: |
-          # 直接创建一个特殊文件来触发output_configs目录的更新
-          echo "$CURRENT_TIME" > output_configs/.last_updated
-          git add output_configs/.last_updated
+          # 使用--force参数确保所有变更都被添加，包括目录中的文件
+          git add --force output_configs/
           
           echo "Committing changes..."
-          # 提交消息也使用CST格式
           git commit --date="$CURRENT_TIME" -m "docs: Update configs and README - $CURRENT_TIME"
           
           echo "Pushing changes..."

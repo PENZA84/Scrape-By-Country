@@ -61,9 +61,10 @@ jobs:
           # 确保添加output_configs下的所有文件，包括子目录
           git add --force output_configs/ README.md update_log.txt
 
-      - name: ⏰ Set commit time
+      - name: ⏰ Set commit time to CST format
         run: |
-          CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S %z")
+          # 使用TZ环境变量临时设置时区为Asia/Shanghai，然后格式化为CST
+          CURRENT_TIME=$(TZ='Asia/Shanghai' date +"%Y-%m-%d %H:%M:%S CST")
           echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
 
       - name: ⬆️ Commit and Push Changes
@@ -73,7 +74,8 @@ jobs:
           git add output_configs/.last_updated
           
           echo "Committing changes..."
-          git commit --date="$CURRENT_TIME" -m "docs: Update configs and README - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          # 提交消息也使用CST格式
+          git commit --date="$CURRENT_TIME" -m "docs: Update configs and README - $CURRENT_TIME"
           
           echo "Pushing changes..."
           git push origin main

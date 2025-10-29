@@ -25,10 +25,10 @@ jobs:
       - name: ⚙️ Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt # <-- pytz هم نصب می‌شود
+          pip install -r config/requirements.txt # <-- pytz is also installed
 
       - name: 🕸️ Run scraping script
-        run: python scraper.py
+        run: python config/scraper.py
 
       - name: 🔧 Configure Git
         run: |

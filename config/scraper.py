@@ -11,6 +11,7 @@ import pytz
 import base64
 from urllib.parse import parse_qs, unquote
 import platform
+import time
 
 # --- 配置常量 ---
 # 获取当前脚本所在目录的绝对路径

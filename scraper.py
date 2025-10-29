@@ -1013,17 +1013,17 @@ async def main():
             continue
             
         # 确保使用集合的实际大小作为计数
-            actual_count = len(items)
-            logging.info(f"正在保存国家配置: {category}，包含 {actual_count} 个配置")
-            saved, count = save_to_file(country_dir, category, items, error_stats)
-            if saved:
-                country_counts[category] = actual_count
-                countries_with_configs += 1
-                total_country_configs += actual_count
-                countries_saved += 1
-                logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
-            else:
-                logging.warning(f"国家配置保存失败: {category}")
+        actual_count = len(items)
+        logging.info(f"正在保存国家配置: {category}，包含 {actual_count} 个配置")
+        saved, count = save_to_file(country_dir, category, items, error_stats)
+        if saved:
+            country_counts[category] = actual_count
+            countries_with_configs += 1
+            total_country_configs += actual_count
+            countries_saved += 1
+            logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
+        else:
+            logging.warning(f"国家配置保存失败: {category}")
     
     logging.info(f"总共保存了 {countries_saved} 个国家配置文件，包含 {total_country_configs} 个配置")
     

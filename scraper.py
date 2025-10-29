@@ -1157,16 +1157,18 @@ async def main():
         
         # 更新output_configs文件夹的修改时间，确保显示为最新更新
         try:
-            if os.path.exists(OUTPUT_DIR):
-                os.utime(OUTPUT_DIR)  # 更新文件夹的访问和修改时间为当前时间
-                logging.info(f"已更新output_configs文件夹的修改时间: {os.path.abspath(OUTPUT_DIR)}")
+            # 使用绝对路径确保正确更新文件夹时间
+            output_dir_abs = os.path.abspath(OUTPUT_DIR)
+            if os.path.exists(output_dir_abs):
+                os.utime(output_dir_abs)  # 更新文件夹的访问和修改时间为当前时间
+                logging.info(f"已更新output_configs文件夹的修改时间: {output_dir_abs}")
                 
-                # 同时更新子目录的时间
+                # 同时使用绝对路径更新子目录的时间
                 for subdir in [PROTOCOL_SUBDIR, COUNTRY_SUBDIR]:
-                    subdir_path = os.path.join(OUTPUT_DIR, subdir)
+                    subdir_path = os.path.join(output_dir_abs, subdir)
                     if os.path.exists(subdir_path):
                         os.utime(subdir_path)
-                        logging.debug(f"已更新{subdir}子目录的修改时间: {os.path.abspath(subdir_path)}")
+                        logging.info(f"已更新{subdir}子目录的修改时间: {subdir_path}")
         except Exception as e:
             logging.warning(f"更新output_configs文件夹时间失败: {e}")
         

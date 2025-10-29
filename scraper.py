@@ -494,6 +494,8 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
         md_content += "|---|---|---|\n"
         for category_name, count in sorted(protocol_counts.items()):
             file_link = f"{protocol_base_url}/{category_name}.txt"
+            # 确保URL不包含/refs/heads/部分
+            file_link = file_link.replace("/refs/heads/", "/")
             md_content += f"| {category_name} | {count} | [`{category_name}.txt`]({file_link}) |\n"
     else:
         md_content += "没有找到协议配置。\n"
@@ -529,6 +531,8 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
             country_display_text = " ".join(display_parts)
             
             file_link = f"{country_base_url}/{country_category_name}.txt"
+            # 确保URL不包含/refs/heads/部分
+            file_link = file_link.replace("/refs/heads/", "/")
             link_text = f"{country_category_name}.txt"
             md_content += f"| {country_display_text} | {count} | [`{link_text}`]({file_link}) |\n"
     else:
@@ -853,42 +857,97 @@ async def main():
     
     # 确保输出目录结构存在
     try:
-        os.makedirs(country_dir, exist_ok=True)
-        os.makedirs(protocol_dir, exist_ok=True)
-        logging.info(f"正在保存文件到目录: {OUTPUT_DIR}")
-        logging.info(f"国家配置将保存到: {country_dir}")
-        logging.info(f"协议配置将保存到: {protocol_dir}")
+        # 使用绝对路径确保目录位置正确
+        output_dir_abs = os.path.abspath(OUTPUT_DIR)
+        country_dir_abs = os.path.abspath(country_dir)
+        protocol_dir_abs = os.path.abspath(protocol_dir)
+        
+        os.makedirs(country_dir_abs, exist_ok=True)
+        os.makedirs(protocol_dir_abs, exist_ok=True)
+        
+        logging.info(f"正在保存文件到目录: {output_dir_abs}")
+        logging.info(f"国家配置将保存到: {country_dir_abs}")
+        logging.info(f"协议配置将保存到: {protocol_dir_abs}")
+        
+        # 验证目录创建成功
+        if os.path.exists(country_dir_abs) and os.path.exists(protocol_dir_abs):
+            logging.info("输出目录创建成功")
+        else:
+            logging.warning("输出目录创建可能不成功，请检查路径和权限")
     except (PermissionError, OSError) as e:
         logging.critical(f"无法创建输出目录: {e}")
-        return
+        # 尝试使用当前工作目录
+        try:
+            current_dir = os.getcwd()
+            fallback_country_dir = os.path.join(current_dir, OUTPUT_DIR, COUNTRY_SUBDIR)
+            fallback_protocol_dir = os.path.join(current_dir, OUTPUT_DIR, PROTOCOL_SUBDIR)
+            os.makedirs(fallback_country_dir, exist_ok=True)
+            os.makedirs(fallback_protocol_dir, exist_ok=True)
+            country_dir = fallback_country_dir
+            protocol_dir = fallback_protocol_dir
+            logging.warning(f"已切换到备选目录: {current_dir}\{OUTPUT_DIR}")
+        except Exception as fallback_e:
+            logging.critical(f"备选目录创建也失败: {fallback_e}")
+            return
 
     # 保存协议配置文件
     protocol_counts = {}
+    protocols_saved = 0
+    
+    if not final_all_protocols:
+        logging.warning("没有协议配置需要保存，final_all_protocols为空")
+    else:
+        logging.info(f"准备保存 {len(final_all_protocols)} 个协议类别的配置")
+        
     for category, items in final_all_protocols.items():
-        if items:  # 只保存非空集合
-            saved, count = save_to_file(protocol_dir, category, items)
-            if saved:
-                protocol_counts[category] = count
+        if not items:
+            logging.debug(f"跳过空集合的保存: {category}")
+            continue
+            
+        logging.info(f"正在保存协议配置: {category}，包含 {len(items)} 个配置")
+        saved, count = save_to_file(protocol_dir, category, items)
+        if saved:
+            protocol_counts[category] = count
+            protocols_saved += 1
+        else:
+            logging.warning(f"协议配置保存失败: {category}")
+    
+    logging.info(f"总共保存了 {protocols_saved} 个协议配置文件")
     
     # 保存国家配置文件并确保计数准确
     country_counts = {}
     countries_with_configs = 0
     total_country_configs = 0
+    countries_saved = 0
+    
+    if not final_configs_by_country:
+        logging.warning("没有国家配置需要保存，final_configs_by_country为空")
+    else:
+        logging.info(f"准备保存 {len(final_configs_by_country)} 个国家类别的配置")
     
     for category, items in final_configs_by_country.items():
-        if items:  # 只保存非空集合
-            # 确保使用集合的实际大小作为计数
-            actual_count = len(items)
-            saved, count = save_to_file(country_dir, category, items)
-            if saved:
-                country_counts[category] = actual_count
-                countries_with_configs += 1
-                total_country_configs += actual_count
-                logging.debug(f"已保存国家配置: {category}, 节点数量: {actual_count}")
+        if not items:
+            logging.debug(f"跳过空集合的保存: {category}")
+            continue
+            
+        # 确保使用集合的实际大小作为计数
+        actual_count = len(items)
+        logging.info(f"正在保存国家配置: {category}，包含 {actual_count} 个配置")
+        saved, count = save_to_file(country_dir, category, items)
+        if saved:
+            country_counts[category] = actual_count
+            countries_with_configs += 1
+            total_country_configs += actual_count
+            countries_saved += 1
+            logging.info(f"已保存国家配置: {category}, 节点数量: {actual_count}")
+        else:
+            logging.warning(f"国家配置保存失败: {category}")
+    
+    logging.info(f"总共保存了 {countries_saved} 个国家配置文件，包含 {total_country_configs} 个配置")
     
     # 生成README文件
     try:
-        generate_simple_readme(protocol_counts, country_counts, categories_data, use_local_paths=True)
+        generate_simple_readme(protocol_counts, country_counts, categories_data, use_local_paths=False)
     except Exception as e:
         logging.error(f"生成README文件时出错: {e}")
         # 继续执行，不中断程序

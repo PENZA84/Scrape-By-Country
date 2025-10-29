@@ -495,11 +495,11 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
     if not isinstance(country_counts, dict):
         country_counts = {}
     
-    # 确保使用正确的当前时间
-    tz = pytz.timezone('Asia/Shanghai')
+    # 统一使用CST时区
+    tz = pytz.timezone('Asia/Shanghai')  # 这将显示为CST时区
     # 使用datetime.now()获取系统当前时间，并应用正确的时区
     now = datetime.now(tz)
-    timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+    timestamp = now.strftime("%Y-%m-%d %H:%M:%S CST")  # 显式指定CST格式
     logging.info(f"生成README时的当前时间戳: {timestamp}")
     
     # 计算统计信息
@@ -1066,17 +1066,17 @@ async def main():
     try:
         tz = pytz.timezone('Asia/Shanghai')
         now = datetime.now(tz)
-        log_timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+        log_timestamp = now.strftime("%Y-%m-%d %H:%M:%S CST")  # 统一使用CST格式
         
         # 获取README文件的修改时间作为其更新时间
         readme_update_time = "未知"
         if os.path.exists(README_FILE):
             try:
-                # 使用与README生成相同的时区
+                # 使用与README生成相同的时区，统一为CST
                 tz = pytz.timezone('Asia/Shanghai')
                 readme_mtime = os.path.getmtime(README_FILE)
                 readme_update_datetime = datetime.fromtimestamp(readme_mtime, tz)
-                readme_update_time = readme_update_datetime.strftime("%Y-%m-%d %H:%M:%S %Z")
+                readme_update_time = readme_update_datetime.strftime("%Y-%m-%d %H:%M:%S CST")  # 统一使用CST格式
                 logging.debug(f"README文件修改时间: {readme_update_time}")
             except Exception as e:
                 logging.warning(f"获取README修改时间失败: {e}")

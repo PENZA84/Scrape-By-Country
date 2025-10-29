@@ -58,7 +58,8 @@ jobs:
       - name: 📝 Prepare git add command
         run: |
           echo "Adding all generated files to git..."
-          git add output_configs/ README.md update_log.txt
+          # 确保添加output_configs下的所有文件，包括子目录
+          git add --force output_configs/ README.md update_log.txt
 
       - name: ⏰ Set commit time
         run: |
@@ -67,16 +68,12 @@ jobs:
 
       - name: ⬆️ Commit and Push Changes
         run: |
-          # Check if there are any changes
-          if git diff --cached --quiet; then
-            echo "No staged changes found, but still creating commit to update timestamps..."
-            # Create a dummy change to ensure commit happens
-            echo "$CURRENT_TIME" > .last_updated
-            git add .last_updated
-          fi
+          # 直接创建一个特殊文件来触发output_configs目录的更新
+          echo "$CURRENT_TIME" > output_configs/.last_updated
+          git add output_configs/.last_updated
           
           echo "Committing changes..."
-          git commit -m "docs: Update configs and README - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git commit --date="$CURRENT_TIME" -m "docs: Update configs and README - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
           
           echo "Pushing changes..."
           git push origin main

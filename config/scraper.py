@@ -13,14 +13,19 @@ from urllib.parse import parse_qs, unquote
 import platform
 
 # --- 配置常量 ---
-CONFIG_DIR = 'config'  # 配置文件夹，用于存放输入文件
+# 获取当前脚本所在目录的绝对路径
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+# 配置文件夹路径（使用绝对路径，确保在任何位置运行都能正确找到配置文件）
+CONFIG_DIR = SCRIPT_DIR
+# 输入文件路径（使用绝对路径）
 URLS_FILE = os.path.join(CONFIG_DIR, 'urls.txt')
 KEYWORDS_FILE = os.path.join(CONFIG_DIR, 'keywords.json') # 应包含国家的两字母代码
-OUTPUT_DIR = 'output_configs'
+# 输出文件夹路径（使用绝对路径，基于脚本所在目录的父目录）
+OUTPUT_DIR = os.path.join(os.path.dirname(SCRIPT_DIR), 'output_configs')
 COUNTRY_SUBDIR = 'countries'  # 国家配置文件夹
 PROTOCOL_SUBDIR = 'protocols' # 协议配置文件夹
-README_FILE = 'README.md'
-UPDATE_LOG_FILE = os.path.join(OUTPUT_DIR, 'update_log.txt')  # 每日更新日志文件，放在output_configs文件夹中
+README_FILE = os.path.join(os.path.dirname(SCRIPT_DIR), 'README.md')
+UPDATE_LOG_FILE = os.path.join(os.path.dirname(SCRIPT_DIR), 'update_log.txt')  # 每日更新日志文件，放在项目根目录中
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 5000  # 增加最大配置长度，允许更长的节点信息
@@ -458,8 +463,10 @@ def save_to_file(directory, category_name, items_set, error_stats=None):
         
     # 确保目录存在
     try:
-        os.makedirs(directory, exist_ok=True)
-        file_path = os.path.join(directory, f"{category_name}.txt")
+        # 使用绝对路径确保文件位置正确
+        directory_abs = os.path.abspath(directory)
+        os.makedirs(directory_abs, exist_ok=True)
+        file_path = os.path.join(directory_abs, f"{category_name}.txt")
         count = len(items_set)
         
         # 写入排序后的项目，每行一个
@@ -499,15 +506,16 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
 
     # 构建子目录的路径
     if use_local_paths:
-        protocol_base_url = f"{OUTPUT_DIR}/{PROTOCOL_SUBDIR}"
-        country_base_url = f"{OUTPUT_DIR}/{COUNTRY_SUBDIR}"
+        # 使用相对于README文件的路径
+        protocol_base_url = f"{os.path.basename(OUTPUT_DIR)}/{PROTOCOL_SUBDIR}"
+        country_base_url = f"{os.path.basename(OUTPUT_DIR)}/{COUNTRY_SUBDIR}"
     else:
         # 使用raw.githubusercontent.com格式的URL，确保与代码中定义的格式一致
         github_repo_path = "Eleven1985/Scrape-By-Country"  # 更新为正确的仓库路径
         github_branch = "main"
         # 使用标准的raw.githubusercontent.com格式，不带/refs/heads/部分
-        protocol_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{OUTPUT_DIR}/{PROTOCOL_SUBDIR}"
-        country_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{OUTPUT_DIR}/{COUNTRY_SUBDIR}"
+        protocol_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{os.path.basename(OUTPUT_DIR)}/{PROTOCOL_SUBDIR}"
+        country_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{os.path.basename(OUTPUT_DIR)}/{COUNTRY_SUBDIR}"
 
     md_content = f"# 📊 提取结果 (最后更新: {timestamp})\n\n"
     md_content += "此文件是自动生成的。\n\n"
@@ -573,13 +581,15 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
     md_content += "\n"
 
     try:
-        with open(README_FILE, 'w', encoding='utf-8') as f:
+        # 使用绝对路径确保文件写入正确位置
+        readme_abs_path = os.path.abspath(README_FILE)
+        with open(readme_abs_path, 'w', encoding='utf-8') as f:
             f.write(md_content)
-        logging.info(f"成功生成 {README_FILE}")
+        logging.info(f"成功生成 {readme_abs_path}")
         
         # 更新README文件所在目录的时间戳
         try:
-            readme_dir = os.path.dirname(README_FILE) or '.'
+            readme_dir = os.path.dirname(readme_abs_path) or '.'
             os.utime(readme_dir)
             logging.debug(f"已更新README文件所在目录的修改时间: {os.path.abspath(readme_dir)}")
         except Exception as dir_e:
@@ -591,22 +601,26 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
 # main函数和其他函数实现
 async def main():
     """主函数，协调整个抓取和处理流程"""
-    # 确保配置文件夹存在
-    try:
-        os.makedirs(CONFIG_DIR, exist_ok=True)
-    except Exception as e:
-        logging.error(f"创建配置文件夹 '{CONFIG_DIR}' 失败: {e}")
-    
-    # 检查必要的输入文件是否存在
-    if not os.path.exists(URLS_FILE) or not os.path.exists(KEYWORDS_FILE):
-        missing_files = []
-        if not os.path.exists(URLS_FILE):
-            missing_files.append(f"URLs文件: {URLS_FILE}")
-        if not os.path.exists(KEYWORDS_FILE):
-            missing_files.append(f"关键词文件: {KEYWORDS_FILE}")
+    # 确保配置文件夹存在（CONFIG_DIR现在是脚本所在目录，应该已经存在）
+    # 但仍然检查一下确保它是一个目录
+    if not os.path.isdir(CONFIG_DIR):
+        logging.critical(f"配置文件夹 '{CONFIG_DIR}' 不是一个有效的目录")
+        return
         
+    # 检查必要的输入文件是否存在（使用绝对路径）
+    urls_file_abs = os.path.abspath(URLS_FILE)
+    keywords_file_abs = os.path.abspath(KEYWORDS_FILE)
+    
+    if not os.path.exists(urls_file_abs) or not os.path.exists(keywords_file_abs):
+        missing_files = []
+        if not os.path.exists(urls_file_abs):
+            missing_files.append(f"URLs文件: {urls_file_abs}")
+        if not os.path.exists(keywords_file_abs):
+            missing_files.append(f"关键词文件: {keywords_file_abs}")
+        
+        config_dir_abs = os.path.abspath(CONFIG_DIR)
         logging.critical(f"未找到输入文件:\n- {chr(10)}- ".join(missing_files))
-        logging.info(f"请确保这些文件已放在 {CONFIG_DIR} 文件夹中")
+        logging.info(f"请确保这些文件已放在 {config_dir_abs} 文件夹中")
         return
 
     # 加载URL和关键词数据
@@ -618,9 +632,9 @@ async def main():
             logging.critical("URLs文件为空，没有要抓取的URL。")
             return
             
-        logging.info(f"已从 {URLS_FILE} 加载 {len(urls)} 个URL")
+        logging.info(f"已从 {urls_file_abs} 加载 {len(urls)} 个URL")
         
-        with open(KEYWORDS_FILE, 'r', encoding='utf-8') as f:
+        with open(keywords_file_abs, 'r', encoding='utf-8') as f:
             categories_data = json.load(f)
             
         # 验证categories_data是字典类型
@@ -914,19 +928,20 @@ async def main():
     # 国家计数将在保存文件时基于集合大小计算，此处删除重复代码
     
     # 准备输出目录结构
-    country_dir = os.path.join(OUTPUT_DIR, COUNTRY_SUBDIR)
-    protocol_dir = os.path.join(OUTPUT_DIR, PROTOCOL_SUBDIR)
+    output_dir_abs = os.path.abspath(OUTPUT_DIR)
+    country_dir = os.path.join(output_dir_abs, COUNTRY_SUBDIR)
+    protocol_dir = os.path.join(output_dir_abs, PROTOCOL_SUBDIR)
     
-    if os.path.exists(OUTPUT_DIR):
+    if os.path.exists(output_dir_abs):
         try:
-            shutil.rmtree(OUTPUT_DIR)
-            logging.info(f"已删除旧的输出目录: {OUTPUT_DIR}")
+            shutil.rmtree(output_dir_abs)
+            logging.info(f"已删除旧的输出目录: {output_dir_abs}")
         except (PermissionError, OSError) as e:
             logging.warning(f"无法删除旧输出目录: {e}，尝试使用新目录名")
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            backup_dir = f"{OUTPUT_DIR}_backup_{timestamp}"
+            backup_dir = f"{output_dir_abs}_backup_{timestamp}"
             try:
-                shutil.move(OUTPUT_DIR, backup_dir)
+                shutil.move(output_dir_abs, backup_dir)
                 logging.info(f"已将旧目录重命名为: {backup_dir}")
             except Exception as inner_e:
                 logging.error(f"重命名旧目录失败: {inner_e}")
@@ -1220,8 +1235,8 @@ async def main():
     logging.info(f"有配置的国家数量: {countries_with_configs}")
     logging.info(f"国家相关配置总数: {total_country_configs}")
     logging.info(f"输出目录结构:")
-    logging.info(f"- 协议配置: {protocol_dir}")
-    logging.info(f"- 国家配置: {country_dir}")
+    logging.info(f"- 协议配置: {os.path.abspath(protocol_dir)}")
+    logging.info(f"- 国家配置: {os.path.abspath(country_dir)}")
     logging.info(f"README文件已更新: {os.path.abspath(README_FILE)}")
     logging.info(f"更新日志已生成: {os.path.abspath(UPDATE_LOG_FILE)}")
 

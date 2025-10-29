@@ -458,9 +458,6 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
     now = datetime.now(tz)
     timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
     
-    # 记录README更新时间（供日志使用）
-    readme_update_time = timestamp
-    
     # 计算统计信息
     total_protocol_configs = sum(protocol_counts.values())
     total_country_configs = sum(country_counts.values())
@@ -472,11 +469,12 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, u
         protocol_base_url = f"{OUTPUT_DIR}/{PROTOCOL_SUBDIR}"
         country_base_url = f"{OUTPUT_DIR}/{COUNTRY_SUBDIR}"
     else:
-        # 保留GitHub远程路径支持作为备用
-        github_repo_path = "miladtahanian/V2RayScrapeByCountry"
+        # 使用raw.githubusercontent.com格式的URL，确保与代码中定义的格式一致
+        github_repo_path = "Eleven1985/Scrape-By-Country"  # 更新为正确的仓库路径
         github_branch = "main"
-        protocol_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}/{PROTOCOL_SUBDIR}"
-        country_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/refs/heads/{github_branch}/{OUTPUT_DIR}/{COUNTRY_SUBDIR}"
+        # 使用标准的raw.githubusercontent.com格式，不带/refs/heads/部分
+        protocol_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{OUTPUT_DIR}/{PROTOCOL_SUBDIR}"
+        country_base_url = f"https://raw.githubusercontent.com/{github_repo_path}/{github_branch}/{OUTPUT_DIR}/{COUNTRY_SUBDIR}"
 
     md_content = f"# 📊 提取结果 (最后更新: {timestamp})\n\n"
     md_content += "此文件是自动生成的。\n\n"
@@ -895,17 +893,27 @@ async def main():
         logging.error(f"生成README文件时出错: {e}")
         # 继续执行，不中断程序
     
+    # 计算统计信息
+    protocol_config_count = sum(protocol_counts.values())
+    
     # 生成并保存更新日志
-    def write_update_log(url_count, success_count, processed_pages, found_configs, filtered_out_configs, 
-                        protocol_config_count, countries_with_configs, total_country_configs):
-        """写入每日更新日志"""
-        try:
-            tz = pytz.timezone('Asia/Shanghai')
-            now = datetime.now(tz)
-            log_timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
-            
-            log_entry = f"""========== 更新日志 - {log_timestamp} ==========
-URL总数: {url_count}
+    try:
+        tz = pytz.timezone('Asia/Shanghai')
+        now = datetime.now(tz)
+        log_timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+        
+        # 获取README文件的修改时间作为其更新时间
+        readme_update_time = "未知"
+        if os.path.exists(README_FILE):
+            try:
+                readme_mtime = os.path.getmtime(README_FILE)
+                readme_update_datetime = datetime.fromtimestamp(readme_mtime, tz)
+                readme_update_time = readme_update_datetime.strftime("%Y-%m-%d %H:%M:%S %Z")
+            except Exception as e:
+                logging.warning(f"获取README修改时间失败: {e}")
+        
+        log_entry = f"""========== 更新日志 - {log_timestamp} ==========
+URL总数: {len(urls)}
 成功获取的URL数: {success_count}
 处理的页面数: {processed_pages}
 找到的有效配置数: {found_configs}
@@ -915,42 +923,35 @@ URL总数: {url_count}
 国家相关配置总数: {total_country_configs}
 README更新时间: {readme_update_time}
 ====================================================\n\n"""
+        
+        # 使用绝对路径确保文件写入正确位置
+        update_log_abs_path = os.path.abspath(UPDATE_LOG_FILE)
+        with open(update_log_abs_path, 'a', encoding='utf-8') as f:
+            f.write(log_entry)
+        logging.info(f"更新日志已写入: {update_log_abs_path}")
+        
+        # 简单的日志大小控制 - 只保留最近30条日志
+        try:
+            with open(update_log_abs_path, 'r', encoding='utf-8') as f:
+                content = f.read()
             
-            with open(UPDATE_LOG_FILE, 'a', encoding='utf-8') as f:
-                f.write(log_entry)
-            logging.info(f"更新日志已写入: {UPDATE_LOG_FILE}")
+            # 按分隔符分割日志条目
+            entries = content.split("====================================================\n\n")
+            # 过滤掉空条目
+            entries = [e for e in entries if e.strip()]
             
-            # 保留最近30天的日志（可选功能）
-            try:
-                with open(UPDATE_LOG_FILE, 'r', encoding='utf-8') as f:
-                    lines = f.readlines()
-                
-                # 只保留最近30条日志条目（假设每天一条）
-                if len(lines) > 0:
-                    log_entries = []
-                    current_entry = []
-                    for line in lines:
-                        current_entry.append(line)
-                        if line.startswith('===================================================='):
-                            log_entries.append(''.join(current_entry))
-                            current_entry = []
-                    
-                    # 只保留最近30条
-                    if len(log_entries) > 30:
-                        with open(UPDATE_LOG_FILE, 'w', encoding='utf-8') as f:
-                            f.writelines(log_entries[-30:])
-            except Exception as inner_e:
-                logging.warning(f"清理旧日志时出错: {inner_e}")
-                
-        except Exception as e:
-            logging.error(f"写入更新日志时出错: {e}")
-    
-    # 计算统计信息
-    protocol_config_count = sum(protocol_counts.values())
-    
-    # 写入更新日志
-    write_update_log(len(urls), success_count, processed_pages, found_configs, filtered_out_configs,
-                    protocol_config_count, countries_with_configs, total_country_configs)
+            # 只保留最近30条
+            if len(entries) > 30:
+                with open(update_log_abs_path, 'w', encoding='utf-8') as f:
+                    f.write("====================================================\n\n".join(entries[-30:]) + "====================================================\n\n")
+        except Exception as inner_e:
+            logging.warning(f"清理旧日志时出错: {inner_e}")
+            
+    except Exception as e:
+        logging.error(f"写入更新日志时出错: {e}")
+        # 添加更详细的错误信息
+        import traceback
+        logging.error(f"错误详情: {traceback.format_exc()}")
     
     # 输出完成信息
     logging.info(f"=== 抓取完成 ===")

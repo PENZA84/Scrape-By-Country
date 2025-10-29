@@ -955,8 +955,14 @@ async def main():
         country_dir_abs = os.path.abspath(country_dir)
         protocol_dir_abs = os.path.abspath(protocol_dir)
         
+        # 先创建主目录
+        os.makedirs(output_dir_abs, exist_ok=True)
+        logging.info(f"已创建主输出目录: {output_dir_abs}")
+        
+        # 再创建子目录
         os.makedirs(country_dir_abs, exist_ok=True)
         os.makedirs(protocol_dir_abs, exist_ok=True)
+        logging.info(f"已创建子目录: {country_dir_abs} 和 {protocol_dir_abs}")
         
         logging.info(f"正在保存文件到目录: {output_dir_abs}")
         logging.info(f"国家配置将保存到: {country_dir_abs}")

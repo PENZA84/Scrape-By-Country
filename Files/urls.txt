@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
 https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/base64.txt
 https://raw.githubusercontent.com/moneyfly004/v2rayspeedtest/refs/heads/master/v2ray_raw.txt
+https://raw.githubusercontent.com/y9felix/s/refs/heads/main/b

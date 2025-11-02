@@ -12,7 +12,6 @@ ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?security=reality&enc
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#All--%40IRAN_V2RAY1
 ss://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#MTN--%40IRAN_V2RAY1
 ss://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=%2Ffiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--%40IRAN_V2RAY1
-ss://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@dashboard-trx.netbazshop.ir:2095?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%91%A4Iran%F0%9F%97%93%E2%88%9E%20%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1
@@ -28,7 +27,6 @@ vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?security=reality&
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#All--%40IRAN_V2RAY1
 vless://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#MTN--%40IRAN_V2RAY1
 vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=%2Ffiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--%40IRAN_V2RAY1
-vless://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@dashboard-trx.netbazshop.ir:2095?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%91%A4Iran%F0%9F%97%93%E2%88%9E%20%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686410316.lahijan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#%E4%BC%8A%E6%9C%97
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1

@@ -1,7 +1,9 @@
+ss://64bf9c97-212c-4814-ad17-f8539b53a8bd@141.147.147.180:443?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=%2FTelegram%40freecodes%2F#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-32
 ss://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.64.148.82:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40stairnode%29e9e4816%3A99990#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.106.228.247:990#>>@outlinevpnofficial::JP
 ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5Japan%20%2329596%20%2F%20OutlineKeys.com
+ss://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#>>@ShadowsocksM::JP
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@185.18.222.208:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2Ftelegram%40freecodes%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-5
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1806?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:3160?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
@@ -15,6 +17,10 @@ trojan://bca467b8c15211d189008a93c7519d3b@160.16.214.6:1332?allowInsecure=0&sni=
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.214.6:3161?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:3161?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:4452?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
+vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@141.147.147.180:443?encryption=none&security=tls&sni=vless.pengjiajin.sbs&type=ws&host=vless.pengjiajin.sbs&path=%2FTelegram%40freecodes%2F#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-32
 vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#>>@ShadowsocksM::JP
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@185.18.222.208:2053?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2Ftelegram%40freecodes%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-5
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVjEtXHU2NWU1XHU2NzJjOTggQ0ROXHU5NmE3XHU5MDUzIDN4IFs0Nzhtc10iLCAiYWRkIjogInB1Yi5hcDIwMjUwOTA5Lnh5eiIsICJwb3J0IjogIjY0MDA1IiwgImlkIjogIjEzMDc2ODhlLWE3Y2EtMzI1ZC1hOGEyLWViYTRmM2IxOTUyYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAidm1lc3MiLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVjItUFJPIFx1NjVlNVx1NjcyY0EgM3ggWzc0M21zXSIsICJhZGQiOiAicHJvLmFwMjAyNTA5MDkueHl6IiwgInBvcnQiOiAiMzMwNCIsICJpZCI6ICIxMzA3Njg4ZS1hN2NhLTMyNWQtYThhMi1lYmE0ZjNiMTk1MmMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogInZtZXNzIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysfEBzdGFpcm5vZGUiLCJhZGQiOiJ2Ni5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MDYiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiXHUwMDAyIiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJob3N0Ijoib2NiYy5jb20iLCJ0bHMiOiIifQ==

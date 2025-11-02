@@ -21,7 +21,6 @@ hy2://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@40.233.115.110:13805/?insecure=1&sni=
 hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743/?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 hy2://e001eccd-9504-47d5-938a-c1039a507767@vnvn-u-do-vn1-5.9966661.xyz:5000/?sni=vnvn-u-do-vn1.9966661.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BB%F0%9F%87%B3
-hysteria2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443?insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N3N6QjkyMDRianlkaXlRRWFDaE9O@78.40.198.60:47346#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#Channel%20id%3A%20%40ShadowProxy66%20

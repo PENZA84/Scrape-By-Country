@@ -1,9 +1,11 @@
-hysteria2://fdb5648c-a06b-4264-acaf-4cc8ca172163@yd1.oxdtangx.top:11112?sni=yd1.oxdtangx.top&insecure=1#%E5%8D%B0%E5%BA%A6
+ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkidnvip1.evoay.com:53300?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=5vS25dtbA9k2li2vMui9VjyNyAAPs4IbGJUteTu8MHY&sid=a16c1158&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%A9%20%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#>>@free4allVPN::IN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#%F0%9F%87%AE%F0%9F%87%B3India%20%2329682%20%2F%20OutlineKeys.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#>>@free4allVPN::IN
 ss://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-1
 ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#45.88.183.158::IN
 ss://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#45.88.183.164::IN
+vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkidnvip1.evoay.com:53300?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=5vS25dtbA9k2li2vMui9VjyNyAAPs4IbGJUteTu8MHY&sid=a16c1158&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%A9%20%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
 vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3%20IN-1
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#45.88.183.158::IN
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#45.88.183.164::IN

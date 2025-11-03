@@ -1,6 +1,4 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#%E4%B8%AD%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTRlOTBkZi1hM2VlLTQ2NTQtYTlmNi1kMTE4ZTAyZGQwMmE@sl.fgmcx.top:41047#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@36.150.215.197:2088?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@36.150.215.197:9713?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@36.150.215.236:487?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@36.151.192.242:194?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@36.156.102.72:194?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@36.156.102.74:43567?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD

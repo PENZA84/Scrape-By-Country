@@ -1,2 +1,4 @@
+ss://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF

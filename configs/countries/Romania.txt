@@ -1,0 +1,2 @@
+ss://52a15490-6ae2-43f3-9aef-2bf7acf9cc0a@teary.ilooo.ir:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+vless://52a15490-6ae2-43f3-9aef-2bf7acf9cc0a@teary.ilooo.ir:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A

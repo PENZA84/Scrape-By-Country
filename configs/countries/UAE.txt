@@ -1,3 +1,1 @@
-ss://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555/?type=tcp&encryption=none&flow=#%25F0%259F%2594%259690%2540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3AAE
-vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555/?type=tcp&encryption=none&flow=#%25F0%259F%2594%259690%2540oneclickvpnkeys%2520%253E%253E%2540oneclickvpnkeys%3A%3AAE
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2VcdWRkODA4NUBvbmVjbGlja3ZwbmtleXMgPj5Ab25lY2xpY2t2cG5rZXlzOjpBRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ

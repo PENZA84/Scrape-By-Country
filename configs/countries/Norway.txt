@@ -1,0 +1,2 @@
+ss://86e71b0a-ba93-469c-9a0b-7adfe25010d6@45.140.169.69:3036?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=tgju.org&pbk=EueA3KqusYdljc2Sh-ZSKh8o025uEaQ9mU3eGaWnJV4&sid=e137#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20No%20Ads%20
+vless://86e71b0a-ba93-469c-9a0b-7adfe25010d6@45.140.169.69:3036?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=tgju.org&pbk=EueA3KqusYdljc2Sh-ZSKh8o025uEaQ9mU3eGaWnJV4&sid=e137#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20No%20Ads%20

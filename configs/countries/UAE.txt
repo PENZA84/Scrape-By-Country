@@ -1,0 +1,2 @@
+ss://86e71b0a-ba93-469c-9a0b-7adfe25010d6@93.127.181.48:7033?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=zula.ir&pbk=4Ima9QNq8Z0hI5AiZ2fncrj-tsku7HczK61e3CxqbDA&sid=941ebe2276d02485#%F0%9F%87%A6%F0%9F%87%AA%20UAE%20
+vless://86e71b0a-ba93-469c-9a0b-7adfe25010d6@93.127.181.48:7033?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=zula.ir&pbk=4Ima9QNq8Z0hI5AiZ2fncrj-tsku7HczK61e3CxqbDA&sid=941ebe2276d02485#%F0%9F%87%A6%F0%9F%87%AA%20UAE%20

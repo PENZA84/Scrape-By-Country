@@ -3,7 +3,7 @@ name: Scrape-By-Country
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */12 * * *"
 
 permissions:
   contents: write

@@ -11,11 +11,16 @@ import pytz
 import base64
 from urllib.parse import parse_qs, unquote
 
-URLS_FILE = 'Files/urls.txt'
-KEYWORDS_FILE = 'Files/key.json'
-PROTOCOL_OUTPUT_DIR = 'configs/protocols'
-COUNTRY_OUTPUT_DIR = 'configs/countries'
-README_FILE = 'README.md'
+# 获取当前脚本所在目录的绝对路径
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
+
+# 使用绝对路径引用文件
+URLS_FILE = os.path.join(SCRIPT_DIR, 'urls.txt')
+KEYWORDS_FILE = os.path.join(SCRIPT_DIR, 'key.json')
+PROTOCOL_OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'configs/protocols')
+COUNTRY_OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'configs/countries')
+README_FILE = os.path.join(PROJECT_ROOT, 'README.md')
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 1500
@@ -84,34 +89,106 @@ def get_ssr_name(ssr_link):
         logging.warning(f"Failed to parse SSR name from {ssr_link[:30]}...: {e}")
     return None
 
+def get_vless_name(vless_link):
+    if not vless_link.startswith("vless://"):
+        return None
+    try:
+        # vless://uuid@host:port?encryption=none&security=tls&sni=example.com#name
+        if '#' in vless_link:
+            name_part = vless_link.split('#', 1)[1]
+            return unquote(name_part).strip()
+    except Exception as e:
+        logging.warning(f"Failed to parse Vless name from {vless_link[:30]}...: {e}")
+    return None
+
+def get_trojan_name(trojan_link):
+    if not trojan_link.startswith("trojan://"):
+        return None
+    try:
+        # trojan://password@host:port#name
+        if '#' in trojan_link:
+            name_part = trojan_link.split('#', 1)[1]
+            return unquote(name_part).strip()
+    except Exception as e:
+        logging.warning(f"Failed to parse Trojan name from {trojan_link[:30]}...: {e}")
+    return None
+
+def get_shadowsocks_name(ss_link):
+    if not ss_link.startswith("ss://"):
+        return None
+    try:
+        # ss://base64_encoded#name
+        if '#' in ss_link:
+            name_part = ss_link.split('#', 1)[1]
+            return unquote(name_part).strip()
+    except Exception as e:
+        logging.warning(f"Failed to parse Shadowsocks name from {ss_link[:30]}...: {e}")
+    return None
+
+def get_hysteria2_name(hy2_link):
+    if not hy2_link.startswith("hy2://"):
+        return None
+    try:
+        # hy2://password@host:port#name
+        if '#' in hy2_link:
+            name_part = hy2_link.split('#', 1)[1]
+            return unquote(name_part).strip()
+    except Exception as e:
+        logging.warning(f"Failed to parse Hysteria2 name from {hy2_link[:30]}...: {e}")
+    return None
+
+def get_wireguard_name(wg_link):
+    if not (wg_link.startswith("wg://") or 'WireGuard' in wg_link):
+        return None
+    try:
+        # WireGuard配置通常包含#name
+        if '#' in wg_link:
+            name_part = wg_link.split('#', 1)[1]
+            return unquote(name_part).strip()
+    except Exception as e:
+        logging.warning(f"Failed to parse WireGuard name from {wg_link[:30]}...: {e}")
+    return None
+
 def should_filter_config(config):
+    # 过滤包含广告或可疑内容的配置
     if 'i_love_' in config.lower():
         return True
+    # 过滤URL编码异常（%25过多）的配置
     percent25_count = config.count('%25')
     if percent25_count >= MIN_PERCENT25_COUNT:
         return True
+    # 过滤过长的配置
     if len(config) >= MAX_CONFIG_LENGTH:
         return True
+    # 过滤双重URL编码（%2525）的配置
     if '%2525' in config:
         return True
     return False
 
 async def fetch_url(session, url):
-    try:
-        async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
-            response.raise_for_status()
-            html = await response.text()
-            soup = BeautifulSoup(html, 'html.parser')
-            text_content = ""
-            for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
-                text_content += element.get_text(separator='\n', strip=True) + "\n"
-            if not text_content:
-                text_content = soup.get_text(separator=' ', strip=True)
-            logging.info(f"Successfully fetched: {url}")
-            return url, text_content
-    except Exception as e:
-        logging.warning(f"Failed to fetch or process {url}: {e}")
-        return url, None
+    retries = 3
+    for attempt in range(retries):
+        try:
+            async with session.get(url, timeout=REQUEST_TIMEOUT) as response:
+                response.raise_for_status()
+                html = await response.text()
+                soup = BeautifulSoup(html, 'html.parser')
+                text_content = ""
+                # 尝试从各种HTML元素中提取文本
+                for element in soup.find_all(['pre', 'code', 'p', 'div', 'li', 'span', 'td']):
+                    text_content += element.get_text(separator='\n', strip=True) + "\n"
+                if not text_content:
+                    # 如果没有找到特定元素，使用整个页面文本
+                    text_content = soup.get_text(separator=' ', strip=True)
+                logging.info(f"Successfully fetched: {url} (attempt {attempt+1}/{retries})")
+                return url, text_content
+        except Exception as e:
+            if attempt < retries - 1:
+                logging.warning(f"Failed to fetch or process {url} (attempt {attempt+1}/{retries}): {e}. Retrying...")
+                await asyncio.sleep(1)  # 重试前等待1秒
+            else:
+                logging.error(f"Failed to fetch or process {url} after {retries} attempts: {e}")
+                return url, None
 
 def find_matches(text, categories_data):
     matches = {category: set() for category in categories_data}
@@ -352,6 +429,16 @@ async def main():
                     name_to_check = get_ssr_name(config)
                 elif config.startswith('vmess://'):
                     name_to_check = get_vmess_name(config)
+                elif config.startswith('vless://'):
+                    name_to_check = get_vless_name(config)
+                elif config.startswith('trojan://'):
+                    name_to_check = get_trojan_name(config)
+                elif config.startswith('ss://'):
+                    name_to_check = get_shadowsocks_name(config)
+                elif config.startswith('hy2://'):
+                    name_to_check = get_hysteria2_name(config)
+                elif config.startswith('wg://') or 'WireGuard' in config:
+                    name_to_check = get_wireguard_name(config)
 
             if not name_to_check:
                 continue
@@ -359,35 +446,44 @@ async def main():
             current_name_to_check_str = name_to_check if isinstance(name_to_check, str) else ""
 
             for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
+                if not isinstance(keywords_for_country_list, list):
+                    continue
+                    
+                # 提取所有有效的国家关键字（排除emoji但保留国家代码和名称）
                 text_keywords_for_country = []
-                if isinstance(keywords_for_country_list, list):
-                    for kw in keywords_for_country_list:
-                        if isinstance(kw, str):
-                            is_potential_emoji_or_short_code = (1 <= len(kw) <= 7)
-                            is_alphanumeric = kw.isalnum()
-                            if not (is_potential_emoji_or_short_code and not is_alphanumeric):
-                                if not is_persian_like(kw):
-                                    text_keywords_for_country.append(kw)
-                                elif kw.lower() == country_name_key.lower():
-                                    if kw not in text_keywords_for_country:
-                                        text_keywords_for_country.append(kw)
+                for kw in keywords_for_country_list:
+                    if not isinstance(kw, str):
+                        continue
+                        
+                    # 保留国家代码（2-3个大写字母）
+                    if 2 <= len(kw) <= 3 and kw.isupper() and kw.isalpha():
+                        text_keywords_for_country.append(kw)
+                        continue
+                        
+                    # 保留完整的国家名称（非emoji）
+                    if not (1 <= len(kw) <= 7 and not kw.isalnum()):  # 排除可能是emoji的字符串
+                        # 即使是波斯语，如果与国家名称匹配也保留
+                        if not is_persian_like(kw) or kw.lower() == country_name_key.lower():
+                            text_keywords_for_country.append(kw)
+                
+                # 检查配置名称是否包含国家关键字
                 for keyword in text_keywords_for_country:
-                    match_found = False
                     if not isinstance(keyword, str):
                         continue
-                    is_abbr = (len(keyword) == 2 or len(keyword) == 3) and re.match(r'^[A-Z]+$', keyword)
-                    if is_abbr:
+                        
+                    # 对于国家代码，使用单词边界匹配
+                    if 2 <= len(keyword) <= 3 and keyword.isupper() and keyword.isalpha():
                         pattern = r'\b' + re.escape(keyword) + r'\b'
                         if re.search(pattern, current_name_to_check_str, re.IGNORECASE):
-                            match_found = True
-                    else:
-                        if keyword.lower() in current_name_to_check_str.lower():
-                            match_found = True
-                    if match_found:
+                            final_configs_by_country[country_name_key].add(config)
+                            break
+                    # 对于国家名称，使用包含匹配
+                    elif keyword.lower() in current_name_to_check_str.lower():
                         final_configs_by_country[country_name_key].add(config)
                         break
-                if match_found:
-                    break
+                else:
+                    continue  # 未找到匹配，继续下一个国家
+                break  # 找到匹配，跳出循环
 
     if os.path.exists('configs'):
         shutil.rmtree('configs')
@@ -403,6 +499,13 @@ async def main():
         saved, count = save_to_file(PROTOCOL_OUTPUT_DIR, category, items)
         if saved:
             protocol_counts[category] = count
+    
+    # Merge all protocols into one file (保持与其他协议文件命名一致)
+    all_protocols_combined = set()
+    for category, items in final_all_protocols.items():
+        all_protocols_combined.update(items)
+    save_to_file(PROTOCOL_OUTPUT_DIR, "AllProtocols", all_protocols_combined)
+    
     for category, items in final_configs_by_country.items():
         saved, count = save_to_file(COUNTRY_OUTPUT_DIR, category, items)
         if saved:

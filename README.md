@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 17:46 2025-12-03
+## 最后更新: 17:52 2025-12-03
 
 ---
 
@@ -126,15 +126,6 @@
 > **建议**: 为获得最佳性能，请定期检查和更新配置。
 
 ---
-
-## 🤝 贡献
-如果您想参与项目，可以：
-- 推荐新的配置收集来源（`urls.txt`文件）。
-- 添加新的协议或国家模式（`key.json`文件）。
-- 通过在 [GitHub](https://github.com/Eleven1985/Scrape-By-Country) 上提交Pull Request或Issue来帮助改进项目。
-
----
-
 ## 📢 注意事项
 - 本项目仅用于学习和研究目的。
 - 请根据您所在国家的法律负责任地使用配置。

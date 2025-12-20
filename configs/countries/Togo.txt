@@ -1,2 +1,0 @@
-ss://710878ed-b4db-41cf-8475-3ebecd629581@srvgwtvm.samanidempire.org:443?type=ws&encryption=none&path=/2747cb53&host=srvgwtvm.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-6630631208@example.com
-vless://710878ed-b4db-41cf-8475-3ebecd629581@srvgwtvm.samanidempire.org:443?type=ws&encryption=none&path=/2747cb53&host=srvgwtvm.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-6630631208@example.com

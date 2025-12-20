@@ -1,4 +1,1 @@
-ss://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#TR%20VLESS-79%20%7C%20free-nodes
 trojan://BxceQaOe@219.79.214.159:443?allowInsecure=1&sni=t.me%2Fripaojiedian#TR%20TROJAN-90%20%7C%20free-nodes
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#TR%20TROJAN-78%20%7C%20free-nodes
-vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#TR%20VLESS-79%20%7C%20free-nodes

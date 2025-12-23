@@ -1,0 +1,2 @@
+ss://5c2e374b-5bab-41d1-b457-f8797e0f6175@serveruwofl.samanidempire.org:443?type=ws&encryption=none&path=/1ab3537d&host=serveruwofl.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-20219226@example.com
+vless://5c2e374b-5bab-41d1-b457-f8797e0f6175@serveruwofl.samanidempire.org:443?type=ws&encryption=none&path=/1ab3537d&host=serveruwofl.samanidempire.org&security=tls&fp=&alpn=http%2F1.1#tg-20219226@example.com

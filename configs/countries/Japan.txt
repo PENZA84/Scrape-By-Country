@@ -7,7 +7,7 @@ ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5Jap
 ss://b9d9aa23-b153-4c19-adb8-993613ce373b@jpjua.osaip.net:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=violet&allowInsecure=0#JP%20VLESS-11%20%7C%20free-nodes
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%202.0MB%2Fs
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#%3E%3E%40FreakConfig%3A%3AJP
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#JP%20VLESS-37%20%7C%20free-nodes
 vless://456c916d-1241-4a5a-bd2b-c4abc69fd9ed@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config

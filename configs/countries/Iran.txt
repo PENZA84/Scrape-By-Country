@@ -1,4 +1,2 @@
-ss://09d4b6ae-f95d-43f1-9968-7ee514cafd9b@31.97.46.156:35205?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub-ir
-ss://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=tronblue.qzz.io&type=ws&allowInsecure=0&sni=tronblue.qzz.io#%F0%9F%94%B8Join%20Sho%20%40IRAN_V2RAY1%E2%9A%9C%EF%B8%8F
-vless://09d4b6ae-f95d-43f1-9968-7ee514cafd9b@31.97.46.156:35205?type=tcp&encryption=none&security=none#Telegram%22pingclub_ir%22-Pingclub-ir
-vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=tronblue.qzz.io&type=ws&allowInsecure=0&sni=tronblue.qzz.io#%F0%9F%94%B8Join%20Sho%20%40IRAN_V2RAY1%E2%9A%9C%EF%B8%8F
+trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=0&sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkB2bWVzc2lyYW46OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

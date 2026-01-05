@@ -4,7 +4,7 @@ ss://1112352c-3a6d-3581-8260-24e8d8104bba@s594.okgfwbackxyz.xyz:443?encryption=n
 ss://1112352c-3a6d-3581-8260-24e8d8104bba@s596.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s596.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ue094s596.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#TR%20VLESS-177%20%7C%20free-nodes
 ss://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#TR%20VLESS-78%20%7C%20free-nodes
 ss://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%3E%3E%40oneclickvpnkeys%3A%3ATR
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%3E%3E%40V2raNG_DA%3A%3ATR
+ss://deb34f9c-bbb6-4e0d-89bc-665b870d42fe@trnewup.trovice.ir:2083?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&host=trnewup.trovice.ir&path=%2Fraci%3Fed%3D2048&security=tls&sni=trnewup.trovice.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR-7347489060-32307-5.00GB%F0%9F%93%8A-23H%E2%8F%B3
 ss://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#TR%20VLESS-53%20%7C%20free-nodes
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#TR%20TROJAN-130%20%7C%20free-nodes
 trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#TR%20TROJAN-26%20%7C%20free-nodes
@@ -15,4 +15,5 @@ vless://1112352c-3a6d-3581-8260-24e8d8104bba@s594.okgfwbackxyz.xyz:443?encryptio
 vless://1112352c-3a6d-3581-8260-24e8d8104bba@s596.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=none&fp=random&host=s596.okgfwbackxyz.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u709014ue094s596.okgfwbackxyz.xyz&serviceName=&mode=&alpn=#TR%20VLESS-177%20%7C%20free-nodes
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#TR%20VLESS-78%20%7C%20free-nodes
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#%3E%3E%40oneclickvpnkeys%3A%3ATR
+vless://deb34f9c-bbb6-4e0d-89bc-665b870d42fe@trnewup.trovice.ir:2083?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&host=trnewup.trovice.ir&path=%2Fraci%3Fed%3D2048&security=tls&sni=trnewup.trovice.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR-7347489060-32307-5.00GB%F0%9F%93%8A-23H%E2%8F%B3
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#TR%20VLESS-53%20%7C%20free-nodes

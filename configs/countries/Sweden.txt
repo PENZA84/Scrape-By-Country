@@ -1,4 +1,2 @@
-ss://08c7f096-d057-4d53-82fd-c739d372887b@104.16.53.11:8880?security=none&encryption=none&host=sweeden.mastermarly.ir&type=ws#%3E%3E%40configV2rayNG%3A%3ASE
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://08c7f096-d057-4d53-82fd-c739d372887b@104.16.53.11:8880?security=none&encryption=none&host=sweeden.mastermarly.ir&type=ws#%3E%3E%40configV2rayNG%3A%3ASE
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden

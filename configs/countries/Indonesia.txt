@@ -3,7 +3,6 @@ ss://2594c73c-fc37-4f95-be48-7ededbd6f621@51.195.233.191:443?path=%2F%40MaxFree-
 ss://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B9
 ss://67eef5b1-27ee-4ea2-bcf3-1d736711720c@151.101.169.242:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://765fed78-3a22-4507-a4a1-a6e403265dd2@trta.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#Channel%20id%3A%20%40ShadowProxy66%20
 ss://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?encryption=none&security=none&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B8%F0%9F%87%AC-Singapore-1291ms-PT%20Herza%20Digital%20Indonesia
 ss://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B9
 ss://fbbd87c3-170b-4249-8139-aa6b23ad5133@asd.fastnew199.hosting-ip.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA

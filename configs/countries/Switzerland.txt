@@ -1,4 +1,2 @@
-ss://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?security=reality&type=grpc&mode=gun&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&sid=9c8d68d581a08ea5&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-2
 ss://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir#Switzerland@Mobilinternet`
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?security=reality&type=grpc&mode=gun&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&sid=9c8d68d581a08ea5&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-2
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@www.speedtest.net:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir#Switzerland@Mobilinternet`

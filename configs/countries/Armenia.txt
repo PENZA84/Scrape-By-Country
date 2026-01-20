@@ -1,4 +1,0 @@
-ss://fce38f70-13a4-4b8b-90fa-83228551d30e@am.speeditest.ir:81?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%80%20%28NoAds%29
-ss://fce38f70-13a4-4b8b-90fa-83228551d30e@am2.speeditest.ir:81?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%81%20%28NoAds%29
-vless://fce38f70-13a4-4b8b-90fa-83228551d30e@am.speeditest.ir:81?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%80%20%28NoAds%29
-vless://fce38f70-13a4-4b8b-90fa-83228551d30e@am2.speeditest.ir:81?security=none&type=tcp&headerType=http&path=%2F&host=excoino.com#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%81%20%28NoAds%29

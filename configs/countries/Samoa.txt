@@ -1,0 +1,2 @@
+ss://8c34e9f2-2888-4b2f-93b7-0310a30eead0@104.18.32.47:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chatgpt.digikalarocket.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.digikalarocket.dpdns.org#WS%20TLS-q5%40limooproxy
+vless://8c34e9f2-2888-4b2f-93b7-0310a30eead0@104.18.32.47:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chatgpt.digikalarocket.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=chatgpt.digikalarocket.dpdns.org#WS%20TLS-q5%40limooproxy

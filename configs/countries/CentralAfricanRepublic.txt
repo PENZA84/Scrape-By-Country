@@ -1,0 +1,2 @@
+ss://e0e0490a-da39-4cc7-814b-9c6c503caf5e@104.18.32.47:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sweden.giftcard-shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=sweden.giftcard-shop.ir#CF-06ewayqz
+vless://e0e0490a-da39-4cc7-814b-9c6c503caf5e@104.18.32.47:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sweden.giftcard-shop.ir&fp=chrome&type=ws&allowInsecure=0&sni=sweden.giftcard-shop.ir#CF-06ewayqz

@@ -1,1 +1,0 @@
-trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD

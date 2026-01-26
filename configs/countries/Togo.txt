@@ -1,0 +1,4 @@
+ss://84654b63-c9e3-423f-8e4a-46d1d9e051fa@irani.vidboxco.ir:2053?type=ws&security=tls&encryption=none&path=%2F%3Fed%3D2048&sni=eslamis.systemgamingirani.ir&fp=chrome#IG-TG-GAME%202053%20/%3Fed%3D2048
+ss://84654b63-c9e3-423f-8e4a-46d1d9e051fa@irani.vidboxco.ir:2053?type=ws&security=tls&encryption=none&path=%2Ffast&sni=eslamis.systemgamingirani.ir&fp=chrome#IG-TG-GAME%202053%20/fast
+vless://84654b63-c9e3-423f-8e4a-46d1d9e051fa@irani.vidboxco.ir:2053?type=ws&security=tls&encryption=none&path=%2F%3Fed%3D2048&sni=eslamis.systemgamingirani.ir&fp=chrome#IG-TG-GAME%202053%20/%3Fed%3D2048
+vless://84654b63-c9e3-423f-8e4a-46d1d9e051fa@irani.vidboxco.ir:2053?type=ws&security=tls&encryption=none&path=%2Ffast&sni=eslamis.systemgamingirani.ir&fp=chrome#IG-TG-GAME%202053%20/fast

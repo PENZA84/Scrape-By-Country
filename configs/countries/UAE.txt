@@ -1,5 +1,1 @@
-ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@31.57.228.162:80?host=minoomizban.ir&path=%2Fws&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-10
-ss://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=%2Fws&security=none&encryption=none&host=minoomizban.ir&type=ws#%3E%3E%40vmessorg%3A%3AAE
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@31.57.228.162:80?host=minoomizban.ir&path=%2Fws&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AA%20AE-10
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=%2Fws&security=none&encryption=none&host=minoomizban.ir&type=ws#%3E%3E%40vmessorg%3A%3AAE
-vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFOjpBRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFOjpBRTo6QUUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0

@@ -1,2 +1,0 @@
-ss://6eefb00f-57be-435c-9c1b-e1afcb7a2019@xray.lionandsunflag.com:51138/?type=ws&encryption=none&path=%2F&host=vlesstest.lionandsunflag.com&security=none#JAVIDSHAH-VLESS-WS-telegramTEST
-vless://6eefb00f-57be-435c-9c1b-e1afcb7a2019@xray.lionandsunflag.com:51138/?type=ws&encryption=none&path=%2F&host=vlesstest.lionandsunflag.com&security=none#JAVIDSHAH-VLESS-WS-telegramTEST

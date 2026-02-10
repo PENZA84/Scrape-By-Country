@@ -1,6 +1,2 @@
-ss://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
-ss://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
 ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-6
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@imgur.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@nytimes.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Spebeg.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3ACH
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=94f9#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%AD%20CH-6

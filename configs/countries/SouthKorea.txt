@@ -1,5 +1,7 @@
 ss://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d6cd#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-63
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#%3E%3E%40v2rayng_fast%3A%3AKR
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%3E%3E%40OutlineVpnOfficial%3A%3AKR
+ss://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.kr.lopzo.ir:47880?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#KR%20VLESS-115%20%7C%20free-nodes
 vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d6cd#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7%20KR-63
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#%3E%3E%40v2rayng_fast%3A%3AKR
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.kr.lopzo.ir:47880?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#KR%20VLESS-115%20%7C%20free-nodes

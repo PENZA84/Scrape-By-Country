@@ -6,5 +6,9 @@ ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#SG%20SS-45%20%7C%2
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#SG%20SS-49%20%7C%20free-nodes
 ss://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#SG%20VLESS-116%20%7C%20free-nodes
 ss://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&headerType=none&type=tcp#SG%20VLESS-121%20%7C%20free-nodes
+ss://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3ASG
+ss://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#SG%20VLESS-116%20%7C%20free-nodes
 vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&headerType=none&type=tcp#SG%20VLESS-121%20%7C%20free-nodes
+vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#%3E%3E%40outline_vpn%3A%3ASG
+vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG

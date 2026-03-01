@@ -1,11 +1,12 @@
 ss://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ACA
-ss://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#CA%20VLESS-56%20%7C%20free-nodes
+ss://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#CA%20VLESS-53%20%7C%20free-nodes
 ss://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11172
 ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&security=none&type=ws&host=telewebion.com&path=%2F39427%2FNextlife#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-598ms-Leaseweb%20Canada%20Inc
 ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-10804
 ss://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-9952
+trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#CA%20TROJAN-39%20%7C%20free-nodes
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ACA
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#CA%20VLESS-56%20%7C%20free-nodes
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#CA%20VLESS-53%20%7C%20free-nodes
 vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11172
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&security=none&type=ws&host=telewebion.com&path=%2F39427%2FNextlife#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-598ms-Leaseweb%20Canada%20Inc
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-10804

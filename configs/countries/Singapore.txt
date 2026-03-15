@@ -1,6 +1,7 @@
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c2xHKzBUVGgzb29SODlFR0NlYTkxQ3VBbVBLNFJWVWRjN2FoOUVOTjNqWT0@43.128.111.119:38012#SG%20SS-01%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE@hd117-xjp-jd.huidu51.com:46611#SG%20SS-11%20%7C%20free-nodes
 ss://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-31
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#SG%20TROJAN-25%20%7C%20free-nodes
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@sg03.stimaysmhy8.com:35902?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#SG%20TROJAN-29%20%7C%20free-nodes
-trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?security=tls&sni=www.nintendogames.net#SG%20TROJAN-32%20%7C%20free-nodes
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#SG%20TROJAN-21%20%7C%20free-nodes
+trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?security=tls&sni=www.nintendogames.net#SG%20TROJAN-27%20%7C%20free-nodes
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-31
 vmess://eyJhZGQiOiJjbjAyLjM2NWNsb3VkNTg3OC5jb20iLCJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6U0ciLCJwb3J0Ijo2MDA0LCJpZCI6IjlmMWVjZmNhLTEzYTktNDg4ZC1hYzg0LWFhZWI3M2E4ZDU3NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ

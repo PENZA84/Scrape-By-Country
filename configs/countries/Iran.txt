@@ -1,6 +1,7 @@
 ss://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#IR-%40V2rayAlpha-6
 ss://07a21b46-f4a6-47b6-89d1-98375c44262f@104.17.164.123:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net&type=ws&allowInsecure=0&sni=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net#Irancell-%40V2rayAlpha--8
 ss://0b701f31-493b-4021-bbfd-a17c87f0bc24@sv4.tsdata5.top:50004?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#Irancell-%40V2rayAlpha--14
+ss://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#%3E%3E%40vmess_iran%3A%3ASG
 ss://15e60e17-76ef-43f3-b8a5-39f3be6e0ca9@bot1.bitnetpro.com:1901?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-%40V2rayAlpha-27
 ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Irancell-%40V2rayAlpha--12
 ss://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Irancell-%40V2rayAlpha--6
@@ -63,6 +64,7 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.crea
 vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#IR-%40V2rayAlpha-6
 vless://07a21b46-f4a6-47b6-89d1-98375c44262f@104.17.164.123:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net&type=ws&allowInsecure=0&sni=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net#Irancell-%40V2rayAlpha--8
 vless://0b701f31-493b-4021-bbfd-a17c87f0bc24@sv4.tsdata5.top:50004?security=&encryption=none&host=aparat.com&headerType=http&type=tcp#Irancell-%40V2rayAlpha--14
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#%3E%3E%40vmess_iran%3A%3ASG
 vless://15e60e17-76ef-43f3-b8a5-39f3be6e0ca9@bot1.bitnetpro.com:1901?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-%40V2rayAlpha-27
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Irancell-%40V2rayAlpha--12
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Irancell-%40V2rayAlpha--6

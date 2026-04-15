@@ -1,11 +1,8 @@
 ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.10:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.3:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
-ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.47:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
-ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 ss://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config`
 ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40Proxy_V2ry%20%F0%9F%94%A5%F0%9F%A5%80%20Telegram%20ID
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.47:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 ss://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#Channel%20id%3A%20zanbor%20%20%F0%9F%87%A6%F0%9F%87%B2
@@ -32,11 +29,8 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&sni=
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.10:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.3:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.47:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#ID%20%40HajmVPN_Config`
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40Proxy_V2ry%20%F0%9F%94%A5%F0%9F%A5%80%20Telegram%20ID
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.47:443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#ID%20%40HajmVPN_Config
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F#Channel%20id%3A%20zanbor%20%20%F0%9F%87%A6%F0%9F%87%B2

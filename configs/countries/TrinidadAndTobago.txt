@@ -1,2 +1,0 @@
-ss://11bec923-734e-4831-87a5-d50d9ec97692@185.143.234.235:80?type=ws&encryption=none&path=%2F&host=koko.axyno.ir&security=none#wb-serve-%40ZitaNet-TT.vsqxulux
-vless://11bec923-734e-4831-87a5-d50d9ec97692@185.143.234.235:80?type=ws&encryption=none&path=%2F&host=koko.axyno.ir&security=none#wb-serve-%40ZitaNet-TT.vsqxulux

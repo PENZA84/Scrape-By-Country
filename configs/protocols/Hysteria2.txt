@@ -44,4 +44,3 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?sn
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@updates.kermanshahi.org:33500?sni=updates.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#HP71
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?sni=apple.com&insecure=1#HP71
-hysteria2://t8183548155%3AQQlgHniovbW7kKBaFVgMM4UqWIq0mgsb@vids.jibiji.store:27039?security=tls&obfs=salamander&obfs-password=OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2&insecure=1&pinSHA256=D4%3A21%3A07%3AA8%3AC0%3A73%3AFB%3A35%3A55%3A78%3A4A%3A82%3ACD%3A26%3A20%3AA5%3A1B%3A81%3A1F%3A92%3A56%3AEB%3A39%3AB1%3AB9%3A65%3A4A%3A39%3AB5%3A95%3A06%3A58&sni=bts.com

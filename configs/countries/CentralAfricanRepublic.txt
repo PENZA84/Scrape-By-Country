@@ -1,2 +1,0 @@
-ss://94968e80-d1ab-4763-9d4b-1d29fb21b642@188.114.96.12:443?encryption=none&security=tls&sni=2.webramz.store&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=2.webramz.store&path=%2Fstream#CF-TR-1
-vless://94968e80-d1ab-4763-9d4b-1d29fb21b642@188.114.96.12:443?encryption=none&security=tls&sni=2.webramz.store&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=2.webramz.store&path=%2Fstream#CF-TR-1

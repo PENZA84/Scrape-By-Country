@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/Eleven1985/Scrape-By-Country?style=flat-square" alt="Last Commit" />
   <br>
   <img src="https://img.shields.io/github/issues/Eleven1985/Scrape-By-Country?style=flat-square" alt="GitHub Issues" />
-  <img src="https://img.shields.io/badge/Configs-7116-blue?style=flat-square" alt="Total Configs" />
+  <img src="https://img.shields.io/badge/Configs-7048-blue?style=flat-square" alt="Total Configs" />
   <img src="https://img.shields.io/github/stars/Eleven1985/Scrape-By-Country?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Project Status" />
   <img src="https://img.shields.io/badge/language-中文%20%26%20English-007EC6?style=flat-square" alt="Language" />
 </p>
 
-## 最后更新: 23:52 2026-06-11
+## 最后更新: 11:33 2026-06-12
 
 ---
 
@@ -25,19 +25,19 @@
 ---
 
 ## 📁 协议配置
-目前有 7116 个配置可用。
+目前有 7048 个配置可用。
 
 <div align="center">
 
 | 协议 | 数量 | 下载链接 |
 |:-------:|:-----:|:------------:|
-| **汇总** | **7116** | [`AllProtocols.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/AllProtocols.txt) |
-| Hysteria2 | 57 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Hysteria2.txt) |
-| ShadowSocks | 3747 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/ShadowSocks.txt) |
-| Trojan | 322 | [`Trojan.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Trojan.txt) |
+| **汇总** | **7048** | [`AllProtocols.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/AllProtocols.txt) |
+| Hysteria2 | 58 | [`Hysteria2.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Hysteria2.txt) |
+| ShadowSocks | 3717 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/ShadowSocks.txt) |
+| Trojan | 303 | [`Trojan.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Trojan.txt) |
 | Tuic | 1 | [`Tuic.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Tuic.txt) |
-| Vless | 2840 | [`Vless.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Vless.txt) |
-| Vmess | 149 | [`Vmess.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Vmess.txt) |
+| Vless | 2823 | [`Vless.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Vless.txt) |
+| Vmess | 146 | [`Vmess.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/Vmess.txt) |
 </div>
 
 ---
@@ -61,7 +61,6 @@
 | <img src="https://flagcdn.com/w20/ca.png" width="20" alt="Canada flag">  Canada (加拿大) | 18 | [`Canada.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Canada.txt) |
 | <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag">  China (中国) | 10 | [`China.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/China.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20" alt="Colombia flag">  Colombia (哥伦比亚) | 4 | [`Colombia.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Colombia.txt) |
-| <img src="https://flagcdn.com/w20/cd.png" width="20" alt="CongoKinshasa flag">  CongoKinshasa (刚果（金）) | 3 | [`CongoKinshasa.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/CongoKinshasa.txt) |
 | <img src="https://flagcdn.com/w20/dk.png" width="20" alt="Denmark flag">  Denmark (丹麦) | 2 | [`Denmark.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Denmark.txt) |
 | <img src="https://flagcdn.com/w20/ee.png" width="20" alt="Estonia flag">  Estonia (爱沙尼亚) | 2 | [`Estonia.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Estonia.txt) |
 | <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag">  Finland (芬兰) | 94 | [`Finland.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Finland.txt) |
@@ -78,11 +77,10 @@
 | <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag">  Japan (日本) | 73 | [`Japan.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Japan.txt) |
 | <img src="https://flagcdn.com/w20/kz.png" width="20" alt="Kazakhstan flag">  Kazakhstan (哈萨克斯坦) | 12 | [`Kazakhstan.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Kazakhstan.txt) |
 | <img src="https://flagcdn.com/w20/lv.png" width="20" alt="Latvia flag">  Latvia (拉脱维亚) | 6 | [`Latvia.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Latvia.txt) |
-| <img src="https://flagcdn.com/w20/my.png" width="20" alt="Malaysia flag">  Malaysia (马来西亚) | 1 | [`Malaysia.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Malaysia.txt) |
 | <img src="https://flagcdn.com/w20/mx.png" width="20" alt="Mexico flag">  Mexico (墨西哥) | 3 | [`Mexico.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Mexico.txt) |
 | <img src="https://flagcdn.com/w20/me.png" width="20" alt="Montenegro flag">  Montenegro (黑山) | 568 | [`Montenegro.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Montenegro.txt) |
 | <img src="https://flagcdn.com/w20/na.png" width="20" alt="Namibia flag">  Namibia (纳米比亚) | 5 | [`Namibia.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Namibia.txt) |
-| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag">  Netherlands (荷兰) | 143 | [`Netherlands.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Netherlands.txt) |
+| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag">  Netherlands (荷兰) | 144 | [`Netherlands.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Netherlands.txt) |
 | <img src="https://flagcdn.com/w20/ph.png" width="20" alt="Philippines flag">  Philippines (菲律宾) | 2 | [`Philippines.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Philippines.txt) |
 | <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag">  Poland (波兰) | 13 | [`Poland.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Poland.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag">  Romania (罗马尼亚) | 2 | [`Romania.txt`](https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/countries/Romania.txt) |

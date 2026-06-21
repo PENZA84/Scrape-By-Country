@@ -88,7 +88,6 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21494?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF2
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?sni=drhystuichdfy.samanidempire.org&alpn=h3&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=0#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#%3E%3E%40oneclickvpnkeys%3A%3AIN
-hysteria2://V2RayyNGvpn@66.92.161.94:80?security=tls&obfs=salamander&obfs-password=T.me%2FV2RayyNGvpn&insecure=1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
@@ -102,9 +101,6 @@ hysteria2://[email protected]:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=300
 hysteria2://[email protected]:443?sni=u711540us148.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://[email protected]:443?sni=u711540us195.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://[email protected]:443?sni=u711540us261.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://[email protected]:443?sni=u711540us282.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://[email protected]:443?sni=u711540us306.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#
-hysteria2://[email protected]:443?sni=u711540us462.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://[email protected]:443?sni=u711540us482.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://[email protected]:443?sni=u711540us491.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#
 hysteria2://[email protected]:443?sni=u711540us554.okgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#

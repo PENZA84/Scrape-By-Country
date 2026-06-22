@@ -1,6 +1,15 @@
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21112?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B61
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@trq.xn--mes13n8pi8x2b.shop:21910?insecure=0&mport=21001-21999#%E5%9C%9F%E8%80%B3%E5%85%B62
 ss://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ATR
+ss://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.237:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%3E%3E%40v2rayng_fast%3A%3ATR
+ss://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%3E%3E%40v2ray1_ng%3A%3ATR
 ss://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%3E%3E%40v2ray1_ng%3A%3ATR
+ss://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#🇹🇷TR-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%3E%3E%40configV2rayNG%3A%3ATR
+ss://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv2.ir5ive.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3ATR
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3ATR
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.237:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%3E%3E%40v2rayng_fast%3A%3ATR
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%3E%3E%40v2ray1_ng%3A%3ATR
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%3E%3E%40v2ray1_ng%3A%3ATR
+vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@turkey.shabtaban.ir:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#🇹🇷TR-🚀@VPNine1
+vless://d9307ab3-1ed0-4b6d-bfd0-e104c7ccc25a@sv2.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv2.ir5ive.ir&type=ws#%3E%3E%40v2rayng_fast%3A%3ATR

@@ -1,4 +1,5 @@
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://github.com/Alvin9999-newpac/fanqiang@clash-ip1.934618.xyz:18271?sni=clash-ip1.934618.xyz#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%3E%3E%40outline_vpn%3A%3AFR
 ss://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR

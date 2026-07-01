@@ -1,2 +1,0 @@
-ss://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.158:8443?flow=xtls-rprx-vision&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#%F0%9F%87%B1%F0%9F%87%B9_LT_%E7%AB%8B%E9%99%B6%E5%AE%9B
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.158:8443?flow=xtls-rprx-vision&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#%F0%9F%87%B1%F0%9F%87%B9_LT_%E7%AB%8B%E9%99%B6%E5%AE%9B

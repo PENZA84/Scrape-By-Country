@@ -1,13 +1,11 @@
 ss://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%3E%3E%40configshub2%3A%3ACA
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2Ffp&domain=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev#116.%F0%9F%87%A8%F0%9F%87%A6%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%7C%20%40LimeVPNFREE
 ss://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&security=none&type=ws&host=telewebion.com&path=%2F39427%2FNextlife#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%A6-Montreal-598ms-Leaseweb%20Canada%20Inc
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943?allowInsecure=1&security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?allowInsecure=1&security=tls&sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619?allowInsecure=1&security=tls&sni=fr.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?allowInsecure=1&security=tls&sni=de.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?allowInsecure=1&security=tls&sni=is.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?allowInsecure=1&security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:45553?allowInsecure=1&security=tls&sni=ch.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:45619?allowInsecure=1&security=tls&sni=fr.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?allowInsecure=1&security=tls&sni=de.01.naiun.bilibili.com#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7

@@ -1,1 +1,0 @@
-trojan://kZSruDyvxP@45.130.125.2:443?path=%2Fda&security=tls&insecure=0&host=sk.farxmode.ir&fp=firefox&type=ws&allowInsecure=0&sni=sk.farxmode.ir#%F0%9F%87%B8%F0%9F%87%A8SC-%F0%9F%9A%80%40V2Ray_Hub1200

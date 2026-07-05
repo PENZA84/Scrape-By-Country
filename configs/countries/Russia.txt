@@ -1,4 +1,4 @@
-hysteria2://8ab59c8d-e4b5-4275-b916-083600addd53@ru.841130.xyz:30000?insecure=1&sni=www.bing.com#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@46.17.40.117:51385?insecure=1&sni=music.apple.com#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#RU%20VLESS-320%20%7C%20free-nodes
 ss://501c1f83-a390-4b93-99db-7f57d0111573@nr.cnkstore.ru:8443?security=reality&encryption=none&pbk=v9tl1F7ZGdPeudN3tsHw02vvOpLOvhGBUEjgeCtsvQk&headerType=none&fp=firefox&type=tcp&sni=iv.kommersant.ru&sid=fe74a5e0a6#RU%20VLESS-323%20%7C%20free-nodes
 ss://fc7d8276-2f79-48f2-92c7-2fa5c0d9aa2a@147.45.97.168:2053?security=reality&encryption=none&pbk=FWkH7C_t9obV_NI48ir9DHJed6OVBQTh-Hi8fVnUlDM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=market.yandex.ru&sid=118dc2786b9de6b6#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F🇷🇺

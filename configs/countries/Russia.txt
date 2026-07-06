@@ -1,7 +1,2 @@
-hysteria2://73ffcd12-0155-432f-9fd4-c1d2bf9190d7@46.17.40.117:51857?insecure=1&sni=music.apple.com#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@46.17.40.117:51385?insecure=1&sni=music.apple.com#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-hysteria2://cb887032-0447-4216-be3c-7333ecdcda9a@46.17.40.117:50045?insecure=1&sni=music.apple.com#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#RU%20VLESS-329%20%7C%20free-nodes
-ss://c90395e6-2140-47ad-a54d-9b166729d3ef@vlessru.duckdns.org:8443?fp=chrome&host=vlessru.duckdns.org&path=%2Fwsru&security=tls&sni=vlessru.duckdns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=qq&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#RU%20VLESS-329%20%7C%20free-nodes
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@vlessru.duckdns.org:8443?fp=chrome&host=vlessru.duckdns.org&path=%2Fwsru&security=tls&sni=vlessru.duckdns.org&type=ws#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF

@@ -28,6 +28,7 @@ ss://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ@n4.cover20.ir:19964?type=tcp#%3E%3E%40V2rayNG3%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@e4.cover20.ir:16156?type=tcp#%3E%3E%40V2rayNG3%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTUuMjM2LjM3LjEyNTo0NDM=#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?encryption=none&fp=chrome&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&fp=chrome&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&fp=chrome&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR

@@ -112,7 +112,6 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF1
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21494?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF2
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?sni=drhystuichdfy.samanidempire.org&alpn=h3&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=0#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
-hysteria2://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@31.77.144.133:443?alpn=h3&sni=argg9.auragg.org#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@103.173.155.158:443?sni=u691611u2dd066f2s226.sspcccdn.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-636%20%7C%20free-nodes
 hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@160.25.74.91:443?sni=u691611us785.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-663%20%7C%20free-nodes
 hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@185.106.96.231:443?sni=u691611us849.ccgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#US%20HY2-705%20%7C%20free-nodes
@@ -134,6 +133,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.60.114:443/?insecure=1#%3E%3E%40onec
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.60.114:443/?insecure=1#%F0%9F%95%B9%EF%B8%8F53@v2ray_configs_pools
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%95%B9%EF%B8%8F50@v2ray_configs_pools
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3

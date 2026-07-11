@@ -1,4 +1,2 @@
-ss://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@194.55.239.181:9443?fp=chrome&path=%2Fws&security=tls&sni=sw-2-al.hysteria.ltd&type=ws#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 ss://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#RU%20VLESS-326%20%7C%20free-nodes
-vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@194.55.239.181:9443?fp=chrome&path=%2Fws&security=tls&sni=sw-2-al.hysteria.ltd&type=ws#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%A8%F0%9F%87%AD_CH_%E7%91%9E%E5%A3%AB
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#RU%20VLESS-326%20%7C%20free-nodes

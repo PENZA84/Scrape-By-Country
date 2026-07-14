@@ -164,3 +164,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22223?#%3E%3E%40v2nodes%3A%3AFR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-496
+vmess://eyJhZGQiOiJ2MzUuaGRhY2QuY29tIiwiYWlkIjoyLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBvcnQiOjMwODM1LCJwcyI6IvCfh6/wn4e1X0pQX+aXpeacrC0+8J+Hq/Cfh7dfRlJf5rOV5Zu9Iiwic2VjdXJpdHkiOiJhdXRvIn0=

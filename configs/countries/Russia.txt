@@ -1,3 +1,2 @@
 ss://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#RU%20VLESS-138%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.133.23.45:60129#🇷🇺RU-🚀@VPNine1
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?type=grpc&serviceName=grpc&fp=chrome&security=tls#RU%20VLESS-138%20%7C%20free-nodes

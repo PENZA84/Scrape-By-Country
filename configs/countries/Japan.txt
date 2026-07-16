@@ -47,8 +47,12 @@ ss://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s9989.gogocs.xyz:443?encryption=none&t
 ss://e258977b-e413-4718-a3af-02d75492c349@64.176.42.196:10443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AJP
 ss://e258977b-e413-4718-a3af-02d75492c349@84.247.152.29:8443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AJP
 trojan://CF68213490@equipped-moth.rooster465.autos:443?allowInsecure=0&sni=equipped-moth.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://CF68213490@immune-mullet.rooster465.autos:443?sni=immune-mullet.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://CF68213490@noble-tahr.rooster465.autos:443?allowInsecure=0&sni=noble-tahr.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://CF68213490@star-dodo.rooster465.autos:443?allowInsecure=0&sni=star-dodo.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
+trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?sni=ultimate-jaguar.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://CF68213490@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&sni=busy-lab.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://PI36027154@exciting-grizzly.rooster465.autos:443?allowInsecure=0&sni=exciting-grizzly.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
@@ -99,5 +103,5 @@ vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s9988.okgg.top:443?encryption=none&
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s9989.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=a4a430dds9987.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099ua4a430dds9987.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#JP%20VLESS-856%20%7C%20free-nodes
 vless://e258977b-e413-4718-a3af-02d75492c349@64.176.42.196:10443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://e258977b-e413-4718-a3af-02d75492c349@84.247.152.29:8443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AJP
-vmess://eyJhZGQiOiI0NS43Ni4yMDIuNDUiLCJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJpZCI6IjA3MWE4YTcxLWM2NTYtNGZiNi1hOTA4LTRlNDJlYjcyMjQzZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlrc3V6Y3AiLCJwb3J0IjoiNDAxMCIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6IjQ1Ljc2LjIwMi40NSIsInBvcnQiOiI0MDEwIiwiaWQiOiIwNzFhOGE3MS1jNjU2LTRmYjYtYTkwOC00ZTQyZWI3MjI0M2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6IlwvbGlrc3V6Y3AiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiIxNjEuMzMuMTM5LjEzOCIsImFpZCI6MCwiaG9zdCI6IjE2MS4zMy4xMzkuMTM4IiwiaWQiOiIxNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzE2MTBmOGRjLTA2NjEtNDAzMi1hYzZhLWE3MjUwNjAzZjYwOC12bSIsInBvcnQiOjU4OTA1LCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9

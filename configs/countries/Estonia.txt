@@ -1,2 +1,0 @@
-ss://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=tls&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#%F0%9F%87%AA%F0%9F%87%AA_EE_%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A
-vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=tls&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#%F0%9F%87%AA%F0%9F%87%AA_EE_%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A

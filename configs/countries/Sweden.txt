@@ -1,4 +1,2 @@
-ss://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:443?encryption=none&fp=&mode=auto&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo&security=reality&sni=res.cdn.office.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ASE
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:443?encryption=none&fp=&mode=auto&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo&security=reality&sni=res.cdn.office.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ASE
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden

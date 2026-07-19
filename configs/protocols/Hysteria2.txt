@@ -1,4 +1,5 @@
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
+hysteria2://038663b35fe801158d3eca2dae5a6fb1@69.63.220.227:443?insecure=1&obfs=salamander&obfs-password=7e3ea7dfee4694e5e0e73383&sni=69.63.220.227#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?sni=www.apple.com&insecure=1#yandex-99
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?sni=api.push.apple.com&insecure=1#yandex-100
@@ -15,7 +16,8 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@tw.xn--mes13n8pi8x2b.shop:21860
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF1
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21494?insecure=0&mport=21001-21999#%E9%A6%99%E6%B8%AF2
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?sni=drhystuichdfy.samanidempire.org&alpn=h3&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=0#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443/?sni=kamil-power-machine.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443/?sni=fl02.auragg.org#%3E%3E%40oneclickvpnkeys%3A%3AFI
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@81.27.102.215:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -42,6 +44,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?sni=apple.com&insecure=1#HP71
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?insecure=1&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=ff2.yuntong.click#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F47@v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG

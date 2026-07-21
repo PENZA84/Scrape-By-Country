@@ -1,2 +1,0 @@
-ss://cca3e5cc-a62b-4877-b2d2-446da5167265@gr.fredomiran.com:443?security=reality&encryption=none&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f9ffaeacfcf21dc1#GR
-vless://cca3e5cc-a62b-4877-b2d2-446da5167265@gr.fredomiran.com:443?security=reality&encryption=none&pbk=5vlie1Xxnp4ZhghxvPWZCPLiwxM9CNVuQN0lRz2Gigw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f9ffaeacfcf21dc1#GR

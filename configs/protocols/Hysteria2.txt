@@ -1,4 +1,5 @@
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%3E%3E%40oneclickvpnkeys%3A%3ATW
+hysteria2://038663b35fe801158d3eca2dae5a6fb1@69.63.220.227:443?insecure=1&obfs=salamander&obfs-password=7e3ea7dfee4694e5e0e73383&sni=69.63.220.227#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974?sni=www.bing.com&insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?sni=www.apple.com&insecure=1#yandex-99
 hysteria2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?sni=api.push.apple.com&insecure=1#yandex-100
@@ -23,8 +24,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443/?insecure=1&sni=https%3A
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://IoFmkhjUlE@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%E2%AD%95T.Me%3Dirconfiig%F0%9F%87%A9%F0%9F%87%AA`
-hysteria2://VpxzokH9V4@91.107.174.32:25810?sni=www.amd.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27#%40Surfboardv2ray```
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_net%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
@@ -43,6 +42,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000?sni=ap
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#HP71
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@updates.kermanshahi.org:33500?sni=updates.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#HP71
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#vip%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%40Sgv2ray%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85```
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?sni=apple.com&insecure=1#HP71

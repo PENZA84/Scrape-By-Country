@@ -64,8 +64,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdDlBYVhMQVlRbTM3Wm1LTExXVWpnSXVtdG5KbXI2OE0raFg4dXMzMC9zPQ@e1.cover20.ir:51570?type=tcp#%3E%3E%40V2rayNG3%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#%3E%3E%40V2rayNG3%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYXJiYXphbnNoYWhpZA%3D%3D@178.128.195.253:10070#%F0%9F%87%A9%F0%9F%87%AA%5B%40LevikoConfig%5D%20ss-DE-14961754```
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTc3LjI1Mi40NDo0NDM=#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTc3LjI1Mi40NDo0NDM=#DE
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
 ss://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?mode=gun&security=tls&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=eventloophub.org#%3E%3E%40ShadowsocksM%3A%3ADE
@@ -88,7 +86,6 @@ ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&sec
 ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 ss://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-ss://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.80:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE
 trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://KV63147582@3.76.41.23:443?fp=chrome&sni=evolving-baboon.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -181,5 +178,4 @@ vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&
 vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@152.228.134.80:2053?encryption=none&fp=chrome&host=s5gydl.936.us.ci&path=%2Fproxyip%3Dtw.william.us.ci%3Fuuid%3Df4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE

@@ -49,9 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%3E%3E%40configV2rayNG%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZDBObzEzZnZQNlBYM1A3VHlPSWpuUnJuMUZ3V1BrTUNqTVN3T0VmNlBJPQ@e1.cover20.ir:51570?type=tcp#%3E%3E%40V2rayNG3%3A%3ADE
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTU5LjUzLjIwNTo0NDM=#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTc3LjI1Mi40NDo0NDM=#DE
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTgwLjE4MC4xNzY6NDQz#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
 ss://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?mode=gun&security=tls&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=eventloophub.org#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ADE
@@ -66,6 +63,7 @@ ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3ADE
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3ADE
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.120.80:22222?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip2.kaixincloud.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@chatgpt.com:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -151,6 +149,7 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fh
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3ADE
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.28.111.206:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3ADE
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.120.80:22222?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip2.kaixincloud.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&fp=chrome&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@chatgpt.com:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE

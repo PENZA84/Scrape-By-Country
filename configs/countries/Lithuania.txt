@@ -1,0 +1,2 @@
+ss://c01c2da7-6977-4b53-a493-cda17fa61b4f@45.81.254.101:443?flow=xtls-rprx-vision&fp=firefox&pbk=igTVOq5qGZYKOLuu_RJFMyNC-vY_oi3MCSpQ6HOoYH8&security=tls&sid=81711c3d1425c374&sni=travel.catanduanes.ru#%F0%9F%87%B1%F0%9F%87%B9_LT_%E7%AB%8B%E9%99%B6%E5%AE%9B
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@45.81.254.101:443?flow=xtls-rprx-vision&fp=firefox&pbk=igTVOq5qGZYKOLuu_RJFMyNC-vY_oi3MCSpQ6HOoYH8&security=tls&sid=81711c3d1425c374&sni=travel.catanduanes.ru#%F0%9F%87%B1%F0%9F%87%B9_LT_%E7%AB%8B%E9%99%B6%E5%AE%9B

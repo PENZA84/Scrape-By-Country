@@ -3,7 +3,6 @@ hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443/?sni=de5-hy2.
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de5-hy2.veilvpn.life:8443/?sni=de5-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ff2.yuntong.click:443?insecure=1&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=ff2.yuntong.click#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?encryption=none&security=tls&sni=ir3uk.airpanel.top&fp=chrome&type=ws&host=ir3uk.airpanel.top&path=%2F#%3E%3E%40flyv2ray%3A%3ADE
 ss://0bdf406a-84a5-46a0-baf8-c1d85ad30d6b@217.16.25.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=chrome&pbk=mhS5tgy6bzzFw_sOpdAGuKVS5MF1e0FjzimA92KnPUE&type=tcp&headerType=none#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -49,6 +48,7 @@ ss://8cecaad1-fe90-4fa6-a6d6-e93c8a19380d@172.64.152.23:2053?encryption=none&sec
 ss://8cecaad1-fe90-4fa6-a6d6-e93c8a19380d@188.114.98.0:2053?encryption=none&security=tls&sni=hz.badomzamini.uk&fp=chrome&type=ws&host=hz.badomzamini.uk&path=%2Flatest%3Fed%3D2560#%3E%3E%40configV2rayNG%3A%3ADE
 ss://94ada67d-2d74-4e0b-a0d4-07a5198296a4@136.244.88.245:39942?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
+ss://9b7388b9-8c8c-4a86-b518-da32df36e6c6@fz.tempfast.ir:33786?fp=chrome&pbk=tPl3qHlJ_ZPX_jXBA8i1j_dmQBMhJ31qk4HQlXjntmE&security=tls&sid=f55c53dfd45cfc6d&sni=icloud.com#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TCt1czVyM2NRT083SWZpSnZvaHNsM3dyT0k2TEN1emxBcGJ1WVFiKy9lRT06emZuZUIxOEtHQmtiaTlJWERhUmQ0cTBXeDFISVo0cERSOGVuZUpBTFlrVT0@91.107.159.216:58252#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ty9QSWFPUkdVSHN6RXRnazF0K2lYeTVjOXZ0WXBnOFNyVFg1M2xXc0tSaz06RVVqTlNXbDFOK0tNWWUvM0VGclMxaGxoRDhZZUtReWVmY3ZhRkoydDlqbz0@91.107.135.249:23859#%3E%3E%40shadowproxy66%3A%3ADE
@@ -62,8 +62,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnAxVHhUUlVJZ0hzPQ@e4.cover20.ir:16156?type=tcp#%3E%3E%40V2rayNG3%3A%3ADE
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
-ss://be737d2a-0b7a-4a0a-a455-ad8ec833d084@78.159.110.126:33470?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@5.83.129.253:443?flow=xtls-rprx-vision&fp=firefox&pbk=dJDkS3qV0P2GnLUkGBpmeWhu5brRDMVUeBE4ng1WcnQ&security=tls&sni=flash.try-me.store#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ADE
 ss://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40configV2rayNG%3A%3ADE
 ss://c659ce22-0a02-4d75-8c89-58d99916b846@188.114.96.3:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -155,11 +153,10 @@ vless://8cecaad1-fe90-4fa6-a6d6-e93c8a19380d@172.64.152.23:2053?encryption=none&
 vless://8cecaad1-fe90-4fa6-a6d6-e93c8a19380d@188.114.98.0:2053?encryption=none&security=tls&sni=hz.badomzamini.uk&fp=chrome&type=ws&host=hz.badomzamini.uk&path=%2Flatest%3Fed%3D2560#%3E%3E%40configV2rayNG%3A%3ADE
 vless://94ada67d-2d74-4e0b-a0d4-07a5198296a4@136.244.88.245:39942?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://9b7388b9-8c8c-4a86-b518-da32df36e6c6@fz.tempfast.ir:33786?fp=chrome&pbk=tPl3qHlJ_ZPX_jXBA8i1j_dmQBMhJ31qk4HQlXjntmE&security=tls&sid=f55c53dfd45cfc6d&sni=icloud.com#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#%3E%3E%40configV2rayNG%3A%3ADE
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://be737d2a-0b7a-4a0a-a455-ad8ec833d084@78.159.110.126:33470?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@5.83.129.253:443?flow=xtls-rprx-vision&fp=firefox&pbk=dJDkS3qV0P2GnLUkGBpmeWhu5brRDMVUeBE4ng1WcnQ&security=tls&sni=flash.try-me.store#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ADE
 vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40configV2rayNG%3A%3ADE
 vless://c659ce22-0a02-4d75-8c89-58d99916b846@188.114.96.3:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE

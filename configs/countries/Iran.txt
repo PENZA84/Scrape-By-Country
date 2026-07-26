@@ -1,4 +1,5 @@
 ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?encryption=none&security=reality&sni=bitcommand.com&fp=firefox&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&sid=b1459712&spx=%2F&type=tcp&headerType=none#%E2%99%A5%20IRAN%20%28ZANBOR%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 ss://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?encryption=none&type=ws&path=%2F&host=ads01-cdn.sabzi.name.ng.#%40hi_proxy_iran
 ss://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=%2F&security=none&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#%40hi_proxy_iran

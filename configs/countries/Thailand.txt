@@ -1,4 +1,2 @@
-ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#%3E%3E%40configV2rayNG%3A%3ATH
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&type=ws#%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#%3E%3E%40configV2rayNG%3A%3ATH

@@ -13,6 +13,7 @@ ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&securi
 ss://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5929
 ss://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?encryption=none&security=none&type=ws&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&path=%2F%3Fed#%3E%3E%40configV2rayNG%3A%3ADE
+ss://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?fp=safari&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=tls&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#%3E%3E%40ISVvpn%3A%3ADE
 ss://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -56,10 +57,8 @@ ss://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&he
 ss://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#%3E%3E%40V2rayNG3%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%3E%3E%40FreakConfig%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#🇩🇪DE-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
-ss://b6af5776-fede-4765-b86c-806e827e9a07@germany.superbuba.top:443?flow=xtls-rprx-vision&fp=random&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&security=tls&sid=4fa44664f6a566d3&sni=germany.superbuba.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ADE
 ss://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40configV2rayNG%3A%3ADE
 ss://c659ce22-0a02-4d75-8c89-58d99916b846@188.114.96.3:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -76,7 +75,6 @@ ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&sec
 ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 ss://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-ss://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 ss://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE
 trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?path=%2Ft.me%2Fdefyxvpn_fa&security=none&host=P30day.ir&type=ws#%3E%3E%40shadowproxy66%3A%3ADE
@@ -87,6 +85,7 @@ vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&sec
 vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5929
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?encryption=none&security=none&type=ws&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&path=%2F%3Fed#%3E%3E%40configV2rayNG%3A%3ADE
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?fp=safari&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&security=tls&serviceName=grpc&sid=3303c7a5&sni=media2.tcpdoor.net&type=grpc#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#%3E%3E%40ISVvpn%3A%3ADE
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -128,7 +127,6 @@ vless://9a88c105-9cb0-4092-acde-723eba07d762@95.85.252.202:31090?encryption=none
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40FreakConfig%3A%3ADE
 vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://b6af5776-fede-4765-b86c-806e827e9a07@germany.superbuba.top:443?flow=xtls-rprx-vision&fp=random&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&security=tls&sid=4fa44664f6a566d3&sni=germany.superbuba.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://c44b365e-9ae3-4f9e-99eb-b90dfad85a3e@150.241.115.147:22555?encryption=none&security=none&type=tcp&headerType=none#%3E%3E%40v2nodes%3A%3ADE
 vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40configV2rayNG%3A%3ADE
 vless://c659ce22-0a02-4d75-8c89-58d99916b846@188.114.96.3:2053?encryption=none&security=tls&sni=ir6.hnbyme.online&fp=chrome&allowInsecure=1&type=ws&host=ir6.hnbyme.online&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -145,6 +143,4 @@ vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&
 vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 vless://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE
-vmess://eyJhZGQiOiI5MS4xMDcuMTM5LjE4NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNTE0NTkiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

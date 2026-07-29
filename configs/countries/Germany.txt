@@ -13,6 +13,8 @@ ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&securi
 ss://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5929
 ss://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?encryption=none&security=none&type=ws&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&path=%2F%3Fed#%3E%3E%40configV2rayNG%3A%3ADE
+ss://1f29762d-3f23-4207-9e39-f774de5d49ba@64.188.83.94:8443?serviceName=grpc&type=grpc#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+ss://2022-blake3-aes-256-gcm:8ny7KTPcXpdIYP4OCAO6N12C3+Jx4izBE6waSaQUDG0=:CE95O6qt3p0IQuQrgP2/95gODMZBDwxF1HkwQUfcyvw=@sub2.nkrmuna.ir:2020?type=tcp#🇩🇪DE-🚀@VPNine1
 ss://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#%3E%3E%40ISVvpn%3A%3ADE
 ss://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -55,7 +57,6 @@ ss://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#%3E%3E%40V2rayNG3%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%3E%3E%40FreakConfig%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#%3E%3E%40freeland8%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@62.113.237.3:1080#🇩🇪DE-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6122
 ss://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?encryption=none&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -76,6 +77,7 @@ ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&sec
 ss://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 ss://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+ss://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 ss://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE
 trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM%3D@91.107.139.186:30879?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?path=%2Ft.me%2Fdefyxvpn_fa&security=none&host=P30day.ir&type=ws#%3E%3E%40shadowproxy66%3A%3ADE
@@ -86,6 +88,7 @@ vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&sec
 vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5929
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?encryption=none&security=none&type=ws&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&path=%2F%3Fed#%3E%3E%40configV2rayNG%3A%3ADE
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@64.188.83.94:8443?serviceName=grpc&type=grpc#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#%3E%3E%40ISVvpn%3A%3ADE
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#%3E%3E%40ShadowsocksM%3A%3ADE
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-005.vector9nmb3.info&path=%2F&security=tls&sni=ad-005.vector9nmb3.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -142,7 +145,8 @@ vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@162.159.152.4:2053?encryption=none&
 vless://ec77b9ff-ba31-4b1d-8a81-ee9de133bcf0@wi.buzzmuzzpanel.online:2053?encryption=none&security=tls&sni=ds2-mx-hel22-protection.iranlease.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=ds2-mx-hel22-protection.iranlease.com&path=%2F%3Fed%3D2560#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ee4b0561-450d-4f5b-a8e2-f84c95def9b2@serveruwofl.samanidempire.org:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&host=serveruwofl.samanidempire.org&path=%2F1ab3537d#%3E%3E%40v2nodes%3A%3ADE
 vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?encryption=none&host=xU.aSaCO.sTorE&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%AD_TH_%E6%B3%B0%E5%9B%BD
 vless://nasnet@digitalocean.com:8443?encryption=none&security=tls&sni=nasnet-5712964102.dilik.co&alpn=h2&fp=chrome&allowInsecure=1&type=xhttp&path=%2Fnasnet%2Fcdn&mode=auto#%3E%3E%40configV2rayNG%3A%3ADE
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsImFkZCI6ImN1Mi5haW5pdnAuY29tIiwicG9ydCI6IjMzMjA4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjkyMjdhZmNkLTAyNmUtNzgxZi0xYWJjLWMwNmVmYWJkMjMzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsImhvc3QiOiJjdTIuYWluaXZwLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsImFkZCI6ImZqMjYwMjAzLmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiZmoyNjAyMDMuZnJlZWNoYXR1cC5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsImFkZCI6IjkxLjEwNy4xMzkuMTg2IiwicG9ydCI6IjUxNDU5IiwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsImFkZCI6ImZqMjYwMjA1LmZyZWVjaGF0dXAuY29tIiwicG9ydCI6IjI3NzI2IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijk4ZTJiZTNjLThmODQtNGI4NS05OTZiLWI2OGRjYzJmYmNiNiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiZmoyNjAyMDUuZnJlZWNoYXR1cC5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiI5MS4xMDcuMTM5LjE4NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MDBjZGM4My1iMTg5LTRkNzktYjA2Yi0xMzljNzk3MmE1N2YiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjUxNDU5IiwicHMiOiI+PkB2MnJheTFfbmc6OkRFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ

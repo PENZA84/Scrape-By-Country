@@ -2,4 +2,3 @@ hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21545
 hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@rb.xn--mes13n8pi8x2b.shop:21842?insecure=0&mport=21001-21999#%E6%97%A5%E6%9C%AC2
 ss://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AJP
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3AJP
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6ImN1Mi5haW5pdnAuY29tIiwicG9ydCI6IjMzMjAzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjkyMjdhZmNkLTAyNmUtNzgxZi0xYWJjLWMwNmVmYWJkMjMzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsImhvc3QiOiJjdTIuYWluaXZwLmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

@@ -1,11 +1,10 @@
 ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?encryption=none&security=reality&sni=bitcommand.com&fp=firefox&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&sid=b1459712&spx=%2F&type=tcp&headerType=none#%E2%99%A5%20IRAN%20%28ZANBOR%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#@IRAN_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#@hi_proxy_iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#@Napsternetvirani
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@fr3.levikogjgfdd.ir:1080#@Napsternetvirani
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080#@IRAN_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#@hi_proxy_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppek42emdna0lBZFZ0Q3hRUU05K2ZYSlh6aUlDbW9hZkpMWjlNR2NnRTZjPQ@e4.cover20.ir:16156?type=tcp#🇮🇷IR-🚀@VPNine1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@Napsternetvirani
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-@V2rayAlpha-1
 vless://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?encryption=none&security=reality&sni=bitcommand.com&fp=firefox&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&sid=b1459712&spx=%2F&type=tcp&headerType=none#%E2%99%A5%20IRAN%20%28ZANBOR%29
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIj4+QHZtZXNzaXJhbjo6SEsiLA0KICAiYWRkIjogIjguMjE4LjE3NS42NCIsDQogICJwb3J0IjogIjUxODIzIiwNCiAgImlkIjogImI4ZWU2MzljLWE3YWMtNDlmYS1iYzQ5LTI1MTBlODg1MDQzZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9

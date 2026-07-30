@@ -1,4 +1,6 @@
 ss://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#%3E%3E%40v2ray1_ng%3A%3ASE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.117.88.9:1080#🇸🇪SE-🚀@VPNine1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuNTMuMTk4LjYzOjQ0Mw==#%F0%9F%87%B8%F0%9F%87%AA_SE_%E7%91%9E%E5%85%B8
 ss://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#%3E%3E%40v2ray1_ng%3A%3ASE
 vless://bef436c9-74fa-405e-fa8e-9d72788136ea@85.9.98.57:8082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
